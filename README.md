@@ -18,7 +18,8 @@
 
 #### 产品
 
-1.大疆 https://www.dji.com
+1.大疆 https://www.dji.com  
+2.LG SmartThinQ https://www.smartthinq.com/
 
 
 #### 知乎专栏
@@ -37,6 +38,7 @@
 1.百度自动驾驶 https://github.com/ApolloAuto/apollo  
 2.comma.ai Driving Agent https://github.com/commaai/openpilot  
 3.Google AR https://github.com/google-ar  
+4.OpenCV https://github.com/opencv/opencv
 
 #### News
 
