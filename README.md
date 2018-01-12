@@ -2,13 +2,13 @@
 
 关注未来热门新技术：IoT(物联网)/IoV(车联网)/AI(人工智能)/AR(增强现实)/VR(虚拟现实)/MR(混合现实)/Deep Learning(深度学习)/Big Data(大数据)/Self Driving(自动驾驶)/3D Printing(3D 打印)/UAV(无人机)/Block Chain(区块链)。持续更新中！
 
-#### 网站
+## 网站
 
 1.深圳湾 https://www.shenzhenware.com/  
 2.机器之心 https://www.jiqizhixin.com/  
 3.奇笛网 http://www.qidic.com/  
 
-#### 平台
+## 平台
 
 1.小米 IoT 平台 http://iot.mi.com/  
 2.百度 AI 开放平台 http://ai.baidu.com/  
@@ -16,40 +16,48 @@
 4.机智云 http://www.gizwits.com/  
 5.思必驰 http://www.aispeech.com/
 
-#### 产品
+## 产品
 
 1.大疆 https://www.dji.com  
 2.LG SmartThinQ https://www.smartthinq.com/
 
+### 智能音箱
 
-#### 知乎专栏
+1.Google Home https://store.google.com/product/google_home  
+2.Amazon Echo https://www.amazon.com/all-new-amazon-echo-speaker-with-wifi-alexa-dark-charcoal/dp/B06XCM9LJ4  
+3.Apple HomePod https://www.apple.com/homepod/  
+4.小米 AI 音箱 https://www.mi.com/aispeaker/  
+5.阿里巴巴 天猫精灵 https://detail.tmall.com/item.htm?spm=a21cg.152688.790403.1.1b3b5833fxFPnR&id=552392215469  
+6.喜马拉雅小雅 AI 音箱 http://www.ximalaya.com/xiaoyayinxiang/
+
+## 知乎专栏
 
 1.深圳湾 https://zhuanlan.zhihu.com/shenzhenware  
 2.量子位 https://zhuanlan.zhihu.com/qbitai  
 3.机器之心 https://zhuanlan.zhihu.com/jiqizhixin
 
-#### 网上课堂
+## 网上课堂
 
 1.AI 慕课学院 http://www.mooc.ai/  
 2.Udacity https://www.udacity.com/
 
-#### Open Source Code
+## Open Source Code
 
 1.百度自动驾驶 https://github.com/ApolloAuto/apollo  
 2.comma.ai Driving Agent https://github.com/commaai/openpilot  
 3.Google AR https://github.com/google-ar  
 4.OpenCV https://github.com/opencv/opencv
 
-#### News
+## News
 
 1.AI Weekly http://aiweekly.co/
 
-#### 微信订阅号
+## 微信订阅号
 
 1.奇笛网  
 2.AI掘金志
 
-#### References
+## References
 
 1.[A list of artificial intelligence tools you can use today — for personal use (1/3)](https://medium.com/imlyra/a-list-of-artificial-intelligence-tools-you-can-use-today-for-personal-use-1-3-7f1b60b6c94f)
 
