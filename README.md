@@ -15,7 +15,8 @@
 3.科大讯飞 AIUI 开发平台 http://aiui.xfyun.cn  
 4.机智云 http://www.gizwits.com/  
 5.思必驰 http://www.aispeech.com/  
-6.涂鸦智能平台 https://www.tuya.com/
+6.涂鸦智能平台 https://www.tuya.com/  
+7.腾讯叮当 http://dingdang.qq.com/
 
 ## Lab
 
