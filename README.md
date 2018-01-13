@@ -14,7 +14,12 @@
 2.百度 AI 开放平台 http://ai.baidu.com/  
 3.科大讯飞 AIUI 开发平台 http://aiui.xfyun.cn  
 4.机智云 http://www.gizwits.com/  
-5.思必驰 http://www.aispeech.com/
+5.思必驰 http://www.aispeech.com/  
+6.涂鸦智能平台 https://www.tuya.com/
+
+## Lab
+
+1.腾讯 AI Lab http://ai.tencent.com/
 
 ## 公司
 
