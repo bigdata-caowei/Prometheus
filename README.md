@@ -18,7 +18,8 @@
 6.涂鸦智能平台 https://www.tuya.com/  
 7.腾讯叮当 http://dingdang.qq.com/  
 8.阿里 AI 平台 https://open.bot.tmall.com/  
-9.腾讯 AI 开放平台 https://ai.qq.com/
+9.腾讯 AI 开放平台 https://ai.qq.com/  
+10.网易人工智能 https://ai.163.com
 
 ## Lab
 
@@ -58,7 +59,8 @@
 1.百度自动驾驶 https://github.com/ApolloAuto/apollo  
 2.comma.ai Driving Agent https://github.com/commaai/openpilot  
 3.Google AR https://github.com/google-ar  
-4.OpenCV https://github.com/opencv/opencv
+4.OpenCV https://github.com/opencv/opencv  
+5.TensorFlow https://github.com/tensorflow/tensorflow
 
 ## News
 
