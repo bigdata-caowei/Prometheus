@@ -16,7 +16,9 @@
 4.机智云 http://www.gizwits.com/  
 5.思必驰 http://www.aispeech.com/  
 6.涂鸦智能平台 https://www.tuya.com/  
-7.腾讯叮当 http://dingdang.qq.com/
+7.腾讯叮当 http://dingdang.qq.com/  
+8.阿里 AI 平台 https://open.bot.tmall.com/  
+9.腾讯 AI 开放平台 https://ai.qq.com/
 
 ## Lab
 
