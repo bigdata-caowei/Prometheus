@@ -26,6 +26,11 @@
 1.微信硬件平台 http://iot.weixin.qq.com/  
 2.QQ 物联智能硬件开发平台 http://iot.open.qq.com/
 
+## 系统
+
+1.Raspberry Pi https://www.raspberrypi.org/  
+2.Arduino https://www.arduino.cc/
+
 ## Lab
 
 1.腾讯 AI Lab http://ai.tencent.com/
