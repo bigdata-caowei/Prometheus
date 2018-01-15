@@ -2,13 +2,13 @@
 
 关注未来热门新技术：IoT(物联网)/IoV(车联网)/AI(人工智能)/AR(增强现实)/VR(虚拟现实)/MR(混合现实)/Deep Learning(深度学习)/Big Data(大数据)/Self Driving(自动驾驶)/3D Printing(3D 打印)/UAV(无人机)/Block Chain(区块链)。持续更新中！
 
-## 网站
+## 1. 网站
 
 1.深圳湾 https://www.shenzhenware.com/  
 2.机器之心 https://www.jiqizhixin.com/  
 3.奇笛网 http://www.qidic.com/  
 
-## 平台
+## 2. 平台
 
 1.小米 IoT 平台 http://iot.mi.com/  
 2.百度 AI 开放平台 http://ai.baidu.com/  
@@ -20,6 +20,11 @@
 8.阿里 AI 平台 https://open.bot.tmall.com/  
 9.腾讯 AI 开放平台 https://ai.qq.com/  
 10.网易人工智能 https://ai.163.com
+
+### 2.1 智能硬件平台
+
+1.微信硬件平台 http://iot.weixin.qq.com/  
+2.QQ 物联智能硬件开发平台 http://iot.open.qq.com/
 
 ## Lab
 
