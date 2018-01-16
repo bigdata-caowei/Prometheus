@@ -48,6 +48,13 @@
 1.大疆 https://www.dji.com  
 2.LG SmartThinQ https://www.smartthinq.com/
 
+### 语音助手
+
+1.Siri https://www.apple.com/ios/siri/  
+2.Google Assistant https://assistant.google.com/  
+3.Microsoft Cortana https://www.microsoft.com/en-us/windows/cortana  
+4.Samsung Bixby https://www.samsung.com/us/explore/bixby/
+
 ### 智能音箱
 
 1.Google Home https://store.google.com/product/google_home  
