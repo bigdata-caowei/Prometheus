@@ -21,6 +21,11 @@
 9.腾讯 AI 开放平台 https://ai.qq.com/  
 10.网易人工智能 https://ai.163.com
 
+#### SDK
+
+1.Android Things https://developer.android.com/things/index.html  
+2.iOS HomeKit https://developer.apple.com/homekit/
+
 ### 2.1 智能硬件平台
 
 1.微信硬件平台 http://iot.weixin.qq.com/  
