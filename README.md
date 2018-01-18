@@ -24,7 +24,8 @@
 #### SDK
 
 1.Android Things https://developer.android.com/things/index.html  
-2.iOS HomeKit https://developer.apple.com/homekit/
+2.iOS HomeKit https://developer.apple.com/homekit/  
+3.Cloud AutoML - Custom Machine Learning Models https://cloud.google.com/automl/
 
 ### 2.1 智能硬件平台
 
