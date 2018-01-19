@@ -54,6 +54,11 @@
 1.大疆 https://www.dji.com  
 2.LG SmartThinQ https://www.smartthinq.com/
 
+## 众筹平台
+
+1.Kickstarter https://www.kickstarter.com/  
+2.Indiegogo https://www.indiegogo.com/
+
 ### 语音助手
 
 1.Siri https://www.apple.com/ios/siri/  
