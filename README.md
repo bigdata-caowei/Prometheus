@@ -19,7 +19,8 @@
 7.腾讯叮当 http://dingdang.qq.com/  
 8.阿里 AI 平台 https://open.bot.tmall.com/  
 9.腾讯 AI 开放平台 https://ai.qq.com/  
-10.网易人工智能 https://ai.163.com
+10.网易人工智能 https://ai.163.com  
+11.ROOBO http://www.roobo.com/
 
 #### SDK
 
