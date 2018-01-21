@@ -20,7 +20,8 @@
 8.阿里 AI 平台 https://open.bot.tmall.com/  
 9.腾讯 AI 开放平台 https://ai.qq.com/  
 10.网易人工智能 https://ai.163.com  
-11.ROOBO http://www.roobo.com/
+11.ROOBO http://www.roobo.com/  
+12.Rokid https://github.com/Rokid
 
 #### SDK
 
@@ -53,7 +54,8 @@
 ## 产品
 
 1.大疆 https://www.dji.com  
-2.LG SmartThinQ https://www.smartthinq.com/
+2.LG SmartThinQ https://www.smartthinq.com/  
+3.Rokid 智能家庭机器人 https://www.rokid.com/
 
 ## 众筹平台
 
