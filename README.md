@@ -24,7 +24,8 @@
 10.网易人工智能 https://ai.163.com  
 11.ROOBO http://www.roobo.com/  
 12.Rokid https://github.com/Rokid  
-13.DeepMind https://deepmind.com/
+13.DeepMind https://deepmind.com/  
+14.Landing AI https://www.landing.ai/
 
 #### SDK
 
@@ -90,7 +91,8 @@
 ## 网上课堂
 
 1.AI 慕课学院 http://www.mooc.ai/  
-2.Udacity https://www.udacity.com/
+2.Udacity https://www.udacity.com/  
+3.Coursera https://www.coursera.org/
 
 ## Open Source Code
 
