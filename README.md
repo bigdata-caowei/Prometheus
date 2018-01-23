@@ -45,7 +45,8 @@
 ## 系统
 
 1.Raspberry Pi https://www.raspberrypi.org/  
-2.Arduino https://www.arduino.cc/
+2.Arduino https://www.arduino.cc/  
+3.Fuchsia https://github.com/fuchsia-mirror
 
 ## Lab
 
