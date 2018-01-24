@@ -61,7 +61,8 @@
 
 1.大疆 https://www.dji.com  
 2.LG SmartThinQ https://www.smartthinq.com/  
-3.Rokid 智能家庭机器人 https://www.rokid.com/
+3.Rokid 智能家庭机器人 https://www.rokid.com/  
+4.SnapMaker https://snapmaker.com/
 
 ## 众筹平台
 
