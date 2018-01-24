@@ -25,7 +25,8 @@
 11.ROOBO http://www.roobo.com/  
 12.Rokid https://github.com/Rokid  
 13.DeepMind https://deepmind.com/  
-14.Landing AI https://www.landing.ai/
+14.Landing AI https://www.landing.ai/  
+15.MakeBlock http://www.makeblock.com/
 
 #### SDK
 
