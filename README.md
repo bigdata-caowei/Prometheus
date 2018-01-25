@@ -103,7 +103,8 @@
 2.comma.ai Driving Agent https://github.com/commaai/openpilot  
 3.Google AR https://github.com/google-ar  
 4.OpenCV https://github.com/opencv/opencv  
-5.TensorFlow https://github.com/tensorflow/tensorflow
+5.TensorFlow https://github.com/tensorflow/tensorflow  
+6.Detectron https://github.com/facebookresearch/detectron
 
 ## News
 
