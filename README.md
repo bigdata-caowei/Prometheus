@@ -64,6 +64,10 @@
 3.Rokid 智能家庭机器人 https://www.rokid.com/  
 4.SnapMaker https://snapmaker.com/
 
+## 虚拟货币
+
+1.Bitcoin https://www.bitcoin.com/ https://bitcoin.org
+
 ## 众筹平台
 
 1.Kickstarter https://www.kickstarter.com/  
