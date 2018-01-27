@@ -26,7 +26,8 @@
 12.Rokid https://github.com/Rokid  
 13.DeepMind https://deepmind.com/  
 14.Landing AI https://www.landing.ai/  
-15.MakeBlock http://www.makeblock.com/
+15.MakeBlock http://www.makeblock.com/  
+16.JD Alpha 智能服务平台 https://alphadev.jd.com/skill
 
 #### SDK
 
