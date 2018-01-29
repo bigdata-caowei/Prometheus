@@ -27,7 +27,8 @@
 13.DeepMind https://deepmind.com/  
 14.Landing AI https://www.landing.ai/  
 15.MakeBlock http://www.makeblock.com/  
-16.JD Alpha 智能服务平台 https://alphadev.jd.com/skill
+16.JD Alpha 智能服务平台 https://alphadev.jd.com/skill  
+17.百度 AR https://ar.baidu.com/
 
 #### SDK
 
