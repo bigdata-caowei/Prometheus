@@ -131,6 +131,10 @@
 
 1.PONY.AI https://www.pony.ai/
 
+## AR
+
+1.腾讯 AR 开发平台：http://tar.qq.com/
+
 ## References
 
 1.[A list of artificial intelligence tools you can use today — for personal use (1/3)](https://medium.com/imlyra/a-list-of-artificial-intelligence-tools-you-can-use-today-for-personal-use-1-3-7f1b60b6c94f)
