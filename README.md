@@ -1,8 +1,15 @@
-# Future Elements (未来元素)
+# FutureElements (未来元素)
 
 **前言：我们身处在巨大的科技变革中，如果我们科技工作者不能够跟上时代的话，我们终将会被时代淘汰。我们现在很多人也许不能参与到以下热门新科技中，但是我们依然希望自己能够把握住风口，我们可以多多关注相关的产品、技术，为自己的未来发展提供更多参考！**
 
 关注未来热门新技术：IoT(物联网)/IoV(车联网)/AI(人工智能)/AR(增强现实)/VR(虚拟现实)/MR(混合现实)/Deep Learning(深度学习)/Big Data(大数据)/Self Driving(自动驾驶)/3D Printing(3D 打印)/UAV(无人机)/Robot(机器人)/Block Chain(区块链)。持续更新中！
+
+# 官方自媒体
+
+1.FutureElements 微博：https://weibo.com/FutureElements  
+2.FutureElements 微信订阅号：FutureElements  
+
+
 
 ## 1. 网站
 
