@@ -28,7 +28,8 @@
 14.Landing AI https://www.landing.ai/  
 15.MakeBlock http://www.makeblock.com/  
 16.JD Alpha 智能服务平台 https://alphadev.jd.com/skill  
-17.百度 AR https://ar.baidu.com/
+17.百度 AR https://ar.baidu.com/  
+18.腾讯机器人平台 http://open.qq.com/bot/
 
 #### SDK
 
