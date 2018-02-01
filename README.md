@@ -8,6 +8,7 @@
 
 1.FutureElements 微博：https://weibo.com/FutureElements  
 2.FutureElements 微信订阅号：FutureElements  
+3.FutureElements 知乎专栏：https://zhuanlan.zhihu.com/FutureElements
 
 
 
