@@ -62,7 +62,8 @@
 
 ## Lab
 
-1.腾讯 AI Lab http://ai.tencent.com/
+1.腾讯 AI Lab http://ai.tencent.com/  
+2.DIDI Lab http://www.didi-labs.com/
 
 ## 公司
 
