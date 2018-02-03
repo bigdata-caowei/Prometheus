@@ -74,7 +74,9 @@
 1.大疆 https://www.dji.com  
 2.LG SmartThinQ https://www.smartthinq.com/  
 3.Rokid 智能家庭机器人 https://www.rokid.com/  
-4.SnapMaker https://snapmaker.com/
+4.SnapMaker https://snapmaker.com/  
+5.hTC VIVE https://www.vive.com  
+6.Oculus https://www.oculus.com/
 
 ## 虚拟货币
 
@@ -152,10 +154,3 @@
 2.[A list of artificial intelligence tools you can use today — for businesses (2/3)](https://hackernoon.com/a-list-of-artificial-intelligence-tools-you-can-use-today-for-businesses-2-3-eea3ac374835)
 
 3.[A list of artificial intelligence tools you can use today — for industry specific (3/3)](https://medium.com/imlyra/a-list-of-artificial-intelligence-tools-you-can-use-today-for-industry-specific-3-3-5e16c68da697)
-
-
-
-
-
-
-
