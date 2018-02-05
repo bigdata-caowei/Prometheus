@@ -37,7 +37,8 @@
 15.MakeBlock http://www.makeblock.com/  
 16.JD Alpha 智能服务平台 https://alphadev.jd.com/skill  
 17.百度 AR https://ar.baidu.com/  
-18.腾讯机器人平台 http://open.qq.com/bot/
+18.腾讯机器人平台 http://open.qq.com/bot/  
+19.云智易物联网平台 http://www.xlink.cn/
 
 #### SDK
 
@@ -62,7 +63,8 @@
 
 ## Lab
 
-1.腾讯 AI Lab http://ai.tencent.com/
+1.腾讯 AI Lab http://ai.tencent.com/  
+2.DIDI Lab http://www.didi-labs.com/
 
 ## 公司
 
@@ -73,7 +75,9 @@
 1.大疆 https://www.dji.com  
 2.LG SmartThinQ https://www.smartthinq.com/  
 3.Rokid 智能家庭机器人 https://www.rokid.com/  
-4.SnapMaker https://snapmaker.com/
+4.SnapMaker https://snapmaker.com/  
+5.hTC VIVE https://www.vive.com  
+6.Oculus https://www.oculus.com/
 
 ## 虚拟货币
 
@@ -151,10 +155,3 @@
 2.[A list of artificial intelligence tools you can use today — for businesses (2/3)](https://hackernoon.com/a-list-of-artificial-intelligence-tools-you-can-use-today-for-businesses-2-3-eea3ac374835)
 
 3.[A list of artificial intelligence tools you can use today — for industry specific (3/3)](https://medium.com/imlyra/a-list-of-artificial-intelligence-tools-you-can-use-today-for-industry-specific-3-3-5e16c68da697)
-
-
-
-
-
-
-
