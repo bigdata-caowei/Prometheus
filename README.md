@@ -114,7 +114,7 @@
 2.机智云 http://www.gizwits.com/  
 3.涂鸦智能平台 https://www.tuya.com/  
 4.云智易物联网平台 http://www.xlink.cn/  
-5.BroadLink http://www.broadlink.com.cn/
+5.BroadLink http://www.broadlink.com.cn/  
 6.JD Alpha 智能服务平台 https://alphadev.jd.com/skill  
 7.微信硬件平台 http://iot.weixin.qq.com/  
 8.QQ 物联智能硬件开发平台 http://iot.open.qq.com/
@@ -132,7 +132,7 @@
 ### 4.1.ar 平台
 
 1.百度 AR https://ar.baidu.com/  
-2.腾讯 AR 开发平台：http://tar.qq.com/
+2.腾讯 AR 开发平台：http://tar.qq.com/  
 3.Google AR https://github.com/google-ar  
 
 
