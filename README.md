@@ -10,8 +10,6 @@
 2.FutureElements 微信订阅号：FutureElements  
 3.FutureElements 知乎专栏：https://zhuanlan.zhihu.com/FutureElements
 
-
-
 ## 1.资讯、产品、学习资源
 
 ### 1. 1.网站
@@ -35,7 +33,9 @@
 
 1.AI 慕课学院 http://www.mooc.ai/  
 2.Udacity https://www.udacity.com/  
-3.Coursera https://www.coursera.org/
+3.Coursera https://www.coursera.org/  
+4.极客学院 http://www.jikexueyuan.com/  
+5.慕课网 https://www.imooc.com/
 
 ### 1.5.微信订阅号
 
@@ -78,11 +78,9 @@
 5.阿里巴巴 天猫精灵 https://detail.tmall.com/item.htm?spm=a21cg.152688.790403.1.1b3b5833fxFPnR&id=552392215469  
 6.喜马拉雅小雅 AI 音箱 http://www.ximalaya.com/xiaoyayinxiang/
 
-
 ### 2.5.机器学习
 
 1.Cloud AutoML - Custom Machine Learning Models https://cloud.google.com/automl/
-
 
 ### 2.6.人工智能人物
 
@@ -93,7 +91,6 @@
 ### 2.7.公司
 
 1.出门问问 https://www.chumenwenwen.com/
-
 
 ### 2.8.News
 
@@ -135,12 +132,10 @@
 2.腾讯 AR 开发平台：http://tar.qq.com/  
 3.Google AR https://github.com/google-ar  
 
-
 ### 4.2.VR 平台
 
 1.hTC VIVE https://www.vive.com  
 2.Oculus https://www.oculus.com/
-
 
 ## 5.机器人
 
@@ -157,7 +152,6 @@
 1.MakeBlock http://www.makeblock.com/  
 2.SnapMaker https://snapmaker.com/  
 
-
 ### 6.2.系统
 
 1.Raspberry Pi https://www.raspberrypi.org/  
@@ -168,8 +162,6 @@
 
 1.百度自动驾驶 https://github.com/ApolloAuto/apollo  
 2.PONY.AI https://www.pony.ai/
-
-
 
 ## 8.无人机
 
