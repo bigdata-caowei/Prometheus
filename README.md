@@ -76,7 +76,8 @@
 3.Apple HomePod https://www.apple.com/homepod/  
 4.小米 AI 音箱 https://www.mi.com/aispeaker/  
 5.阿里巴巴 天猫精灵 https://detail.tmall.com/item.htm?spm=a21cg.152688.790403.1.1b3b5833fxFPnR&id=552392215469  
-6.喜马拉雅小雅 AI 音箱 http://www.ximalaya.com/xiaoyayinxiang/
+6.喜马拉雅小雅 AI 音箱 http://www.ximalaya.com/xiaoyayinxiang/  
+7.Sonos https://www.sonos.com
 
 ### 2.5.机器学习
 
