@@ -160,10 +160,17 @@
 2.Arduino https://www.arduino.cc/  
 3.Fuchsia https://github.com/fuchsia-mirror
 
-## 7.自动驾驶/无人车
+## 7.自动/辅助驾驶/无人车
 
 1.百度自动驾驶 https://github.com/ApolloAuto/apollo  
-2.PONY.AI https://www.pony.ai/
+2.PONY.AI https://www.pony.ai/  
+3.DRIVE.AI https://www.drive.ai/  
+4.Waymo https://waymo.com/
+
+### 7.1 自动/辅助/无人驾驶产品  
+
+1.Tesla https://www.tesla.com/  
+2.ZOOX http://zoox.com/
 
 ## 8.无人机
 
