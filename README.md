@@ -132,9 +132,9 @@
 #### 3.3.APP
 1.LG SmartThinQ https://www.smartthinq.com/  
 
-## 4.ar/vr/mr
+## 4.AR/VR/MR
 
-### 4.1.ar 平台
+### 4.1.AR 平台
 
 1.百度 AR https://ar.baidu.com/  
 2.腾讯 AR 开发平台：http://tar.qq.com/  
@@ -180,10 +180,15 @@
 
 ## 8.无人机
 
-### 8.1.产品
+### 8.1.公司
 
 1.大疆 https://www.dji.com  
-2.因特尔 Shooting Star https://en.wikipedia.org/wiki/Shooting_Star_(drone)
+2.亿航 www.ehang.com  
+3.普宙 www.gdu-tech.com
+
+### 8.2.产品
+
+1.因特尔 Shooting Star https://en.wikipedia.org/wiki/Shooting_Star_(drone)
 
 ## 9.虚拟货币
 
