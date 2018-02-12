@@ -79,7 +79,12 @@
 6.喜马拉雅小雅 AI 音箱 http://www.ximalaya.com/xiaoyayinxiang/  
 7.Sonos https://www.sonos.com
 
-### 2.5.机器学习
+### 2.5.智能眼镜
+
+1.Google Glass
+2.Intel Vaunt
+
+### 2.6.机器学习
 
 1.Cloud AutoML - Custom Machine Learning Models https://cloud.google.com/automl/
 
@@ -178,6 +183,7 @@
 ### 8.1.产品
 
 1.大疆 https://www.dji.com  
+2.因特尔 Shooting Star https://en.wikipedia.org/wiki/Shooting_Star_(drone)
 
 ## 9.虚拟货币
 
