@@ -102,7 +102,11 @@
 
 1.AI Weekly http://aiweekly.co/
 
-### 2.9.Open Source Code
+### 2.9.CV
+
+1.Face++ https://www.faceplusplus.com.cn/
+
+### 2.10.Open Source Code
 
 1.comma.ai Driving Agent https://github.com/commaai/openpilot  
 2.OpenCV https://github.com/opencv/opencv  
