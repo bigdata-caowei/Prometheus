@@ -188,6 +188,14 @@
 1.Tesla https://www.tesla.com/  
 2.ZOOX http://zoox.com/
 
+### 7.2 智能车载产品
+
+1.AutoBot http://www.autobot.im/
+
+### 7.3 其他公司和产品  
+
+1.紫霄智能科技 http://www.zierai.com/
+
 ## 8.无人机
 
 ### 8.1.公司
