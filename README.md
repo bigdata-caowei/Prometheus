@@ -56,6 +56,7 @@
 8.ROOBO http://www.roobo.com/  
 9.DeepMind https://deepmind.com/  
 10.Landing AI https://www.landing.ai/  
+11.搜狗 AI http://ai.sogou.com/
 
 ### 2.2.AI Labs
 
@@ -181,7 +182,8 @@
 3.DRIVE.AI https://www.drive.ai/  
 4.Waymo https://waymo.com/  
 5.HoloMatic http://www.holomatic.cn/  
-6.BYTON https://www.byton.com/
+6.BYTON https://www.byton.com/  
+7.NURO https://nuro.ai/
 
 ### 7.1 自动/辅助/无人驾驶产品  
 
@@ -211,3 +213,7 @@
 ## 9.虚拟货币
 
 1.Bitcoin https://www.bitcoin.com/ https://bitcoin.org
+
+## 未整理
+
+1.https://www.jiqizhixin.com/articles/AI00-Jan-2018
