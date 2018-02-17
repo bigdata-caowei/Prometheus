@@ -148,7 +148,9 @@
 ### 4.2.VR 平台
 
 1.hTC VIVE https://www.vive.com  
-2.Oculus https://www.oculus.com/
+2.Oculus https://www.oculus.com/  
+3.Sony PlayStation VR https://www.playstation.com/en-au/explore/playstation-vr/  
+4.Google Daydream View https://store.google.com/product/google_daydream_view
 
 ### 4.3.MR
 
