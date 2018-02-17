@@ -210,7 +210,8 @@
 
 1.大疆 https://www.dji.com  
 2.亿航 www.ehang.com  
-3.普宙 www.gdu-tech.com
+3.普宙 www.gdu-tech.com  
+4.零度 https://www.zerotech.com/
 
 ### 8.2.产品
 
