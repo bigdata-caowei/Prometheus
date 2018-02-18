@@ -163,6 +163,7 @@
 1.腾讯机器人平台 http://open.qq.com/bot/  
 2.Rokid 智能家庭机器人 https://www.rokid.com/  
 3.Rokid https://github.com/Rokid  
+4.小i机器人 http://www.xiaoi.com/index.shtml
 
 ### 5.2.机器人公司
 
