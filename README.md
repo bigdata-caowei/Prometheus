@@ -56,7 +56,9 @@
 8.ROOBO http://www.roobo.com/  
 9.DeepMind https://deepmind.com/  
 10.Landing AI https://www.landing.ai/  
-11.搜狗 AI http://ai.sogou.com/
+11.搜狗 AI http://ai.sogou.com/  
+12.x.ai https://x.ai/  
+13.
 
 ### 2.2.AI Labs
 
@@ -98,7 +100,11 @@
 
 ### 2.7.公司
 
-1.出门问问 https://www.chumenwenwen.com/
+1.出门问问 https://www.chumenwenwen.com/  
+2.大象声科 http://www.elevoc.com/  
+3.竹间智能 http://www.emotibot.com/  
+4.TalkIQ https://talkiq.com/  
+5.Solvvy https://solvvy.com/
 
 ### 2.8.News
 
