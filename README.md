@@ -121,6 +121,13 @@
 3.TensorFlow https://github.com/tensorflow/tensorflow  
 4.Detectron https://github.com/facebookresearch/detectron
 
+### CV
+
+1.Clarifai https://www.clarifai.com/  
+2.Affectiva https://www.affectiva.com/  
+3.ViSenze https://www.visenze.com/cn  
+4.Orbital Insight https://orbitalinsight.com
+
 ## 3.IoT(物联网)
 
 ### 3.1.IoT(物联网) 平台
