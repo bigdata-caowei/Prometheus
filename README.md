@@ -58,7 +58,6 @@
 10.Landing AI https://www.landing.ai/  
 11.搜狗 AI http://ai.sogou.com/  
 12.x.ai https://x.ai/  
-13.
 
 ### 2.2.AI Labs
 
@@ -110,10 +109,6 @@
 
 1.AI Weekly http://aiweekly.co/
 
-### 2.9.CV
-
-1.Face++ https://www.faceplusplus.com.cn/
-
 ### 2.10.Open Source Code
 
 1.comma.ai Driving Agent https://github.com/commaai/openpilot  
@@ -126,7 +121,11 @@
 1.Clarifai https://www.clarifai.com/  
 2.Affectiva https://www.affectiva.com/  
 3.ViSenze https://www.visenze.com/cn  
-4.Orbital Insight https://orbitalinsight.com
+4.Orbital Insight https://orbitalinsight.com  
+5.Descartes Labs https://www.descarteslabs.com/  
+6.商汤科技 https://www.sensetime.com/  
+7.Face++ https://www.faceplusplus.com.cn/  
+8.依图科技 http://www.yitutech.com/
 
 ## 3.IoT(物联网)
 
