@@ -125,7 +125,10 @@
 5.Descartes Labs https://www.descarteslabs.com/  
 6.商汤科技 https://www.sensetime.com/  
 7.Face++ https://www.faceplusplus.com.cn/  
-8.依图科技 http://www.yitutech.com/
+8.依图科技 http://www.yitutech.com/  
+9.图普科技 https://www.tuputech.com/  
+10.Neurala https://www.neurala.com  
+11.云从科技 www.cloudwalk.cn
 
 ## 3.IoT(物联网)
 
