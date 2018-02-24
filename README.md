@@ -130,6 +130,15 @@
 10.Neurala https://www.neurala.com  
 11.云从科技 www.cloudwalk.cn
 
+### Chip & Hardware
+
+1.WaveComputing https://wavecomp.ai/  
+2.Ceva https://www.ceva-dsp.com/  
+3.Tera Deep https://www.teradeep.com/  
+4.寒武纪科技 http://www.cambricon.com/  
+5.Graphcore https://www.graphcore.ai/  
+6.Groq
+
 ## 3.IoT(物联网)
 
 ### 3.1.IoT(物联网) 平台
