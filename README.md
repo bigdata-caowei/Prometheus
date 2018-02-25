@@ -139,6 +139,12 @@
 5.Graphcore https://www.graphcore.ai/  
 6.Groq
 
+### Intelligent Machine
+
+1.ABB Robotics http://new.abb.com/products/robotics  
+2.Fanuc http://www.fanuc.co.jp/  
+3.KUKA Robotics https://www.kuka.com/
+
 ## 3.IoT(物联网)
 
 ### 3.1.IoT(物联网) 平台
