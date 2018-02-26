@@ -149,6 +149,10 @@
 6.3DR https://3dr.com/  
 7.Cyberdyne https://www.cyberdyne.jp/
 
+### 公开课
+
+1.微软人工智能公开课 https://mva.microsoft.com/colleges/microsoftai
+
 ## 3.IoT(物联网)
 
 ### 3.1.IoT(物联网) 平台
