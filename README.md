@@ -143,7 +143,11 @@
 
 1.ABB Robotics http://new.abb.com/products/robotics  
 2.Fanuc http://www.fanuc.co.jp/  
-3.KUKA Robotics https://www.kuka.com/
+3.KUKA Robotics https://www.kuka.com/  
+4.Rethink Robotics http://www.rethinkrobotics.com/  
+5.Universal Robots https://www.universal-robots.com  
+6.3DR https://3dr.com/  
+7.Cyberdyne https://www.cyberdyne.jp/
 
 ## 3.IoT(物联网)
 
