@@ -147,7 +147,10 @@
 4.Rethink Robotics http://www.rethinkrobotics.com/  
 5.Universal Robots https://www.universal-robots.com  
 6.3DR https://3dr.com/  
-7.Cyberdyne https://www.cyberdyne.jp/
+7.Cyberdyne https://www.cyberdyne.jp/  
+8.iRobot http://www.irobot.com/  
+9.ReWalk http://rewalk.com/  
+10.Dyson https://www.dyson.com/
 
 ### 公开课
 
