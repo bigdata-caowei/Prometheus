@@ -150,7 +150,10 @@
 7.Cyberdyne https://www.cyberdyne.jp/  
 8.iRobot http://www.irobot.com/  
 9.ReWalk http://rewalk.com/  
-10.Dyson https://www.dyson.com/
+10.Dyson https://www.dyson.com/  
+11.新松机器人 http://www.siasun.com/  
+12.埃夫特 http://www.efort.com.cn/  
+13.Embodied Intelligence http://embody.ai/
 
 ### 公开课
 
