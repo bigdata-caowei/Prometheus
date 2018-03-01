@@ -103,7 +103,8 @@
 2.大象声科 http://www.elevoc.com/  
 3.竹间智能 http://www.emotibot.com/  
 4.TalkIQ https://talkiq.com/  
-5.Solvvy https://solvvy.com/
+5.Solvvy https://solvvy.com/  
+6.猎户星空 http://ainirobot.com/
 
 ### 2.8.News
 
