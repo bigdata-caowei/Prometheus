@@ -7,8 +7,9 @@
 ## 0.官方自媒体
 
 1.FutureElements 微博：https://weibo.com/FutureElements  
-2.FutureElements 微信订阅号：FutureElements  
-3.FutureElements 知乎专栏：https://zhuanlan.zhihu.com/FutureElements
+2.FutureElements 知乎专栏：https://zhuanlan.zhihu.com/FutureElements  
+3.FutureElements 微信订阅号：FutureElements  
+![](wechat_futureelements.jpg)
 
 ## 1.资讯、产品、学习资源
 
