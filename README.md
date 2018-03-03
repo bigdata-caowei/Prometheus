@@ -159,7 +159,8 @@
 ### 公开课
 
 1.微软人工智能公开课 https://mva.microsoft.com/colleges/microsoftai  
-2.科大讯飞 AI 大学 http://www.aidaxue.com/
+2.科大讯飞 AI 大学 http://www.aidaxue.com/  
+3.微软 AI 学院 https://aischool.microsoft.com/
 
 ## 3.IoT(物联网)
 
