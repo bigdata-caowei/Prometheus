@@ -176,7 +176,8 @@
 7.微信硬件平台 http://iot.weixin.qq.com/  
 8.QQ 物联智能硬件开发平台 http://iot.open.qq.com/  
 9.普玄物联 http://www.nbiot.com.cn/  
-10.Nest https://nest.com
+10.Nest https://nest.com  
+11.视觉助理 https://www.piccololabs.com/
 
 #### 3.2.SDK
 
