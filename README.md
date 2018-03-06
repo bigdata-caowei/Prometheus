@@ -64,7 +64,8 @@
 
 1.腾讯 AI Lab http://ai.tencent.com/  
 2.DIDI Lab http://www.didi-labs.com/  
-3.Intel AI 学院 https://software.intel.com/en-us/ai-academy/
+3.Intel AI 学院 https://software.intel.com/en-us/ai-academy/  
+4.XAIN https://www.xain.io/
 
 ### 2.3.语音助手
 
