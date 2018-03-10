@@ -219,7 +219,8 @@
 ### 5.2.机器人公司
 
 1.Boston Dynamics https://www.bostondynamics.com/  
-2.Woebot https://woebot.io/
+2.Woebot https://woebot.io/  
+3.Vicarious https://www.vicarious.com/
 
 ## 6.创客
 
