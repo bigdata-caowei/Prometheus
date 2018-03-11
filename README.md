@@ -106,7 +106,8 @@
 3.竹间智能 http://www.emotibot.com/  
 4.TalkIQ https://talkiq.com/  
 5.Solvvy https://solvvy.com/  
-6.猎户星空 http://ainirobot.com/
+6.猎户星空 http://ainirobot.com/  
+7.H20 https://www.h2o.ai/
 
 ### 2.8.News
 
