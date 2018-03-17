@@ -181,7 +181,8 @@
 9.普玄物联 http://www.nbiot.com.cn/  
 10.Nest https://nest.com  
 11.视觉助理 https://www.piccololabs.com/  
-12.云知声 https://www.unisound.com/
+12.云知声 https://www.unisound.com/  
+13.Google IoT 平台 https://developers.google.com/iot/
 
 #### 3.2.SDK
 
