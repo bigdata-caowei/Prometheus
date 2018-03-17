@@ -204,7 +204,10 @@
 1.hTC VIVE https://www.vive.com  
 2.Oculus https://www.oculus.com/  
 3.Sony PlayStation VR https://www.playstation.com/en-au/explore/playstation-vr/  
-4.Google Daydream View https://store.google.com/product/google_daydream_view
+4.Google Daydream View https://store.google.com/product/google_daydream_view  
+5.矩道科技 http://www.judaoedu.com/  
+6.蓝鳍鱼 http://www.lenqiy.com/  
+7.PanguVR http://www.panguvr.com/
 
 ### 4.3.MR
 
@@ -283,4 +286,5 @@
 
 ## 未整理
 
-1.https://www.jiqizhixin.com/articles/AI00-Jan-2018
+1.https://www.jiqizhixin.com/articles/AI00-Jan-2018  
+2.https://www.shenzhenware.com/articles/12171
