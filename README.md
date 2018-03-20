@@ -59,6 +59,7 @@
 10.Landing AI https://www.landing.ai/  
 11.搜狗 AI http://ai.sogou.com/  
 12.x.ai https://x.ai/  
+13.华为 AI 开发平台 http://developer.huawei.com/consumer/cn/devservice/develop/huaweiai
 
 ### 2.2.AI Labs
 
