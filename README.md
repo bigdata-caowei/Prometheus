@@ -167,6 +167,10 @@
 2.科大讯飞 AI 大学 http://www.aidaxue.com/  
 3.微软 AI 学院 https://aischool.microsoft.com/
 
+### 其他
+
+1.广场摄影技术 https://www.lytro.com/
+
 ## 3.IoT(物联网)
 
 ### 3.1.IoT(物联网) 平台
