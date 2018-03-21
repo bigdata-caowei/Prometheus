@@ -189,6 +189,14 @@
 12.云知声 https://www.unisound.com/  
 13.Google IoT 平台 https://developers.google.com/iot/
 
+### 公司
+
+1.绿米联创 http://www.lumiunited.com/
+
+### 产品
+
+1.Aqara www.aqara.com
+
 ### 其他
 
 1.HAChina https://www.hachina.io/
