@@ -189,6 +189,10 @@
 12.云知声 https://www.unisound.com/  
 13.Google IoT 平台 https://developers.google.com/iot/
 
+### 其他
+
+1.HAChina https://www.hachina.io/
+
 #### 3.2.SDK
 
 1.Android Things https://developer.android.com/things/index.html  
