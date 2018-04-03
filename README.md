@@ -226,7 +226,8 @@
 5.矩道科技 http://www.judaoedu.com/  
 6.蓝鳍鱼 http://www.lenqiy.com/  
 7.PanguVR http://www.panguvr.com/  
-8.Pillow's Willow VR Studios http://www.pillowswillow.com/
+8.Pillow's Willow VR Studios http://www.pillowswillow.com/  
+9.Antilatency http://antilatency.com/
 
 ### 4.3.MR
 
