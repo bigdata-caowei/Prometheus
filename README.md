@@ -83,7 +83,8 @@
 4.小米 AI 音箱 https://www.mi.com/aispeaker/  
 5.阿里巴巴 天猫精灵 https://detail.tmall.com/item.htm?spm=a21cg.152688.790403.1.1b3b5833fxFPnR&id=552392215469  
 6.喜马拉雅小雅 AI 音箱 http://www.ximalaya.com/xiaoyayinxiang/  
-7.Sonos https://www.sonos.com
+7.Sonos https://www.sonos.com  
+8.腾讯听听 https://tingting.qq.com/h5/ting-detail.html?ADTAG=wx&from=timeline&isappinstalled=0
 
 ### 2.5.智能眼镜
 
