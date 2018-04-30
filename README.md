@@ -84,12 +84,17 @@
 5.阿里巴巴 天猫精灵 https://detail.tmall.com/item.htm?spm=a21cg.152688.790403.1.1b3b5833fxFPnR&id=552392215469  
 6.喜马拉雅小雅 AI 音箱 http://www.ximalaya.com/xiaoyayinxiang/  
 7.Sonos https://www.sonos.com  
-8.腾讯听听 https://tingting.qq.com/h5/ting-detail.html?ADTAG=wx&from=timeline&isappinstalled=0
+8.腾讯听听 https://tingting.qq.com/h5/ting-detail.html?ADTAG=wx&from=timeline&isappinstalled=0  
+9.小度在家 https://zaijia.baidu.com/
 
 ### 2.5.智能眼镜
 
 1.Google Glass
 2.Intel Vaunt
+
+### 2.6 智能操作系统
+
+1.DuerOS https://dueros.baidu.com/
 
 ### 2.6.机器学习
 
@@ -242,7 +247,8 @@
 2.Rokid 智能家庭机器人 https://www.rokid.com/  
 3.Rokid https://github.com/Rokid  
 4.小i机器人 http://www.xiaoi.com/index.shtml  
-5.腾讯 Robotics X
+5.腾讯 Robotics X  
+6.海知 https://ruyi.ai/
 
 ### 5.2.机器人公司
 
