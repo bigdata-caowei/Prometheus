@@ -193,11 +193,13 @@
 10.Nest https://nest.com  
 11.视觉助理 https://www.piccololabs.com/  
 12.云知声 https://www.unisound.com/  
-13.Google IoT 平台 https://developers.google.com/iot/
+13.Google IoT 平台 https://developers.google.com/iot/  
+14.海尔 U+ http://www.haieruplus.com/
 
 ### 公司
 
-1.绿米联创 http://www.lumiunited.com/
+1.绿米联创 http://www.lumiunited.com/  
+2.萤石 https://www.ys7.com/
 
 ### 产品
 
