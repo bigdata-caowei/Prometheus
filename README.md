@@ -59,7 +59,8 @@
 10.Landing AI https://www.landing.ai/  
 11.搜狗 AI http://ai.sogou.com/  
 12.x.ai https://x.ai/  
-13.华为 AI 开发平台 http://developer.huawei.com/consumer/cn/devservice/develop/huaweiai
+13.华为 AI 开发平台 http://developer.huawei.com/consumer/cn/devservice/develop/huaweiai  
+14.腾讯云小微 https://xiaowei.qcloud.com/
 
 ### 2.2.AI Labs
 
@@ -194,7 +195,8 @@
 11.视觉助理 https://www.piccololabs.com/  
 12.云知声 https://www.unisound.com/  
 13.Google IoT 平台 https://developers.google.com/iot/  
-14.海尔 U+ http://www.haieruplus.com/
+14.海尔 U+ http://www.haieruplus.com/  
+15.IFTTT SmartThings https://ifttt.com/smartthings
 
 ### 公司
 
@@ -208,6 +210,10 @@
 ### 其他
 
 1.HAChina https://www.hachina.io/
+
+### 整体解决方案
+
+1.易微联|酷宅科技 http://www.coolkit.cn/
 
 #### 3.2.SDK
 
