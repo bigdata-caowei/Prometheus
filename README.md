@@ -88,6 +88,10 @@
 8.腾讯听听 https://tingting.qq.com/h5/ting-detail.html?ADTAG=wx&from=timeline&isappinstalled=0  
 9.小度在家 https://zaijia.baidu.com/
 
+### 2.5.智能灯泡
+
+1.飞利浦 HUE https://www2.meethue.com/en-us
+
 ### 2.5.智能眼镜
 
 1.Google Glass
@@ -196,7 +200,8 @@
 12.云知声 https://www.unisound.com/  
 13.Google IoT 平台 https://developers.google.com/iot/  
 14.海尔 U+ http://www.haieruplus.com/  
-15.IFTTT SmartThings https://ifttt.com/smartthings
+15.IFTTT SmartThings https://ifttt.com/smartthings  
+16.AliOS http://www.alios.cn/
 
 ### 公司
 
