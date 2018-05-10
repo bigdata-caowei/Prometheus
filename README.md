@@ -93,6 +93,11 @@
 
 1.飞利浦 HUE https://www2.meethue.com/en-us
 
+### 2.6.智能手表
+
+1.Apple Watch  
+2.Android Wear
+
 ### 2.5.智能眼镜
 
 1.Google Glass
