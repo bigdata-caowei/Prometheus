@@ -86,11 +86,17 @@
 6.喜马拉雅小雅 AI 音箱 http://www.ximalaya.com/xiaoyayinxiang/  
 7.Sonos https://www.sonos.com  
 8.腾讯听听 https://tingting.qq.com/h5/ting-detail.html?ADTAG=wx&from=timeline&isappinstalled=0  
-9.小度在家 https://zaijia.baidu.com/
+9.小度在家 https://zaijia.baidu.com/  
+10.iHome https://ihomeaudiointl.com/
 
 ### 2.5.智能灯泡
 
 1.飞利浦 HUE https://www2.meethue.com/en-us
+
+### 2.6.智能手表
+
+1.Apple Watch  
+2.Android Wear
 
 ### 2.5.智能眼镜
 
