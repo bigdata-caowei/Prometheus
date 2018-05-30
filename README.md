@@ -87,7 +87,8 @@
 7.Sonos https://www.sonos.com  
 8.腾讯听听 https://tingting.qq.com/h5/ting-detail.html?ADTAG=wx&from=timeline&isappinstalled=0  
 9.小度在家 https://zaijia.baidu.com/  
-10.iHome https://ihomeaudiointl.com/
+10.iHome https://ihomeaudiointl.com/  
+11.Yandex Station 
 
 ### 2.5.智能灯泡
 
