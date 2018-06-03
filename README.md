@@ -255,7 +255,8 @@
 6.蓝鳍鱼 http://www.lenqiy.com/  
 7.PanguVR http://www.panguvr.com/  
 8.Pillow's Willow VR Studios http://www.pillowswillow.com/  
-9.Antilatency http://antilatency.com/
+9.Antilatency http://antilatency.com/  
+10.Nolo VR https://www.nolovr.com/
 
 ### 4.3.MR
 
