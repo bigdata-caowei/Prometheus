@@ -194,6 +194,11 @@
 
 1.广场摄影技术 https://www.lytro.com/
 
+
+### 声纹识别
+
+1.SpeakIn https://www.speakin.mobi/
+
 ## 3.IoT(物联网)
 
 ### 3.1.IoT(物联网) 平台
