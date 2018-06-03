@@ -18,6 +18,7 @@
 1.深圳湾 https://www.shenzhenware.com/  
 2.机器之心 https://www.jiqizhixin.com/  
 3.奇笛网 http://www.qidic.com/  
+4.链闻 https://www.chainnews.com/
 
 ### 1.2.知乎专栏
 
