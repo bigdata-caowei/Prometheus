@@ -214,7 +214,8 @@
 ### 公司
 
 1.绿米联创 http://www.lumiunited.com/  
-2.萤石 https://www.ys7.com/
+2.萤石 https://www.ys7.com/  
+3.ecobee https://www.ecobee.com
 
 ### 产品
 
