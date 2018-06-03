@@ -209,7 +209,8 @@
 13.Google IoT 平台 https://developers.google.com/iot/  
 14.海尔 U+ http://www.haieruplus.com/  
 15.IFTTT SmartThings https://ifttt.com/smartthings  
-16.AliOS http://www.alios.cn/
+16.AliOS http://www.alios.cn/  
+17.鎏云物联 https://www.cmpyun.com/
 
 ### 公司
 
