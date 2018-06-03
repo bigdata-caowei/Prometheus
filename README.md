@@ -271,7 +271,8 @@
 3.Rokid https://github.com/Rokid  
 4.小i机器人 http://www.xiaoi.com/index.shtml  
 5.腾讯 Robotics X  
-6.海知 https://ruyi.ai/
+6.海知 https://ruyi.ai/  
+7.贝尔机器人 https://www.bellrobot.com/
 
 ### 5.2.机器人公司
 
