@@ -112,6 +112,10 @@
 
 1.Cloud AutoML - Custom Machine Learning Models https://cloud.google.com/automl/
 
+### 2.7 智能锁
+
+1.优点科技 http://www.youdianhome.com/
+
 ### 2.6.人工智能人物
 
 1.吴恩达  
