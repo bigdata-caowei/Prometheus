@@ -18,6 +18,7 @@
 1.深圳湾 https://www.shenzhenware.com/  
 2.机器之心 https://www.jiqizhixin.com/  
 3.奇笛网 http://www.qidic.com/  
+4.链闻 https://www.chainnews.com/
 
 ### 1.2.知乎专栏
 
@@ -112,6 +113,10 @@
 
 1.Cloud AutoML - Custom Machine Learning Models https://cloud.google.com/automl/
 
+### 2.7 智能锁
+
+1.优点科技 http://www.youdianhome.com/
+
 ### 2.6.人工智能人物
 
 1.吴恩达  
@@ -190,6 +195,11 @@
 
 1.广场摄影技术 https://www.lytro.com/
 
+
+### 声纹识别
+
+1.SpeakIn https://www.speakin.mobi/
+
 ## 3.IoT(物联网)
 
 ### 3.1.IoT(物联网) 平台
@@ -209,12 +219,14 @@
 13.Google IoT 平台 https://developers.google.com/iot/  
 14.海尔 U+ http://www.haieruplus.com/  
 15.IFTTT SmartThings https://ifttt.com/smartthings  
-16.AliOS http://www.alios.cn/
+16.AliOS http://www.alios.cn/  
+17.鎏云物联 https://www.cmpyun.com/
 
 ### 公司
 
 1.绿米联创 http://www.lumiunited.com/  
-2.萤石 https://www.ys7.com/
+2.萤石 https://www.ys7.com/  
+3.ecobee https://www.ecobee.com
 
 ### 产品
 
@@ -254,7 +266,8 @@
 6.蓝鳍鱼 http://www.lenqiy.com/  
 7.PanguVR http://www.panguvr.com/  
 8.Pillow's Willow VR Studios http://www.pillowswillow.com/  
-9.Antilatency http://antilatency.com/
+9.Antilatency http://antilatency.com/  
+10.Nolo VR https://www.nolovr.com/
 
 ### 4.3.MR
 
@@ -269,7 +282,8 @@
 3.Rokid https://github.com/Rokid  
 4.小i机器人 http://www.xiaoi.com/index.shtml  
 5.腾讯 Robotics X  
-6.海知 https://ruyi.ai/
+6.海知 https://ruyi.ai/  
+7.贝尔机器人 https://www.bellrobot.com/
 
 ### 5.2.机器人公司
 
