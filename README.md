@@ -70,6 +70,10 @@
 3.Intel AI 学院 https://software.intel.com/en-us/ai-academy/  
 4.XAIN https://www.xain.io/
 
+#### AI 公司
+
+1.bonsai https://bons.ai/
+
 ### 2.3.语音助手
 
 1.Siri https://www.apple.com/ios/siri/  
