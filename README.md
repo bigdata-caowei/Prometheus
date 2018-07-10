@@ -138,7 +138,8 @@
 6.猎户星空 http://ainirobot.com/  
 7.H20 https://www.h2o.ai/  
 8.第四范式 https://www.4paradigm.com/  
-9.Accompany https://www.accompany.com/
+9.Accompany https://www.accompany.com/  
+10.LifeSmart http://www.ilifesmart.com/
 
 ### 2.8.News
 
