@@ -323,7 +323,8 @@
 5.HoloMatic http://www.holomatic.cn/  
 6.BYTON https://www.byton.com/  
 7.NURO https://nuro.ai/  
-8.百度自动驾驶 http://apollo.auto/
+8.百度自动驾驶 http://apollo.auto/  
+9.景驰无人车 http://www.jingchi.ai/
 
 ### 7.1 自动/辅助/无人驾驶产品  
 
