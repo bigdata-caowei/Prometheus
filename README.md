@@ -152,6 +152,10 @@
 3.TensorFlow https://github.com/tensorflow/tensorflow  
 4.Detectron https://github.com/facebookresearch/detectron
 
+#### 组织
+
+1.OpenAI https://openai.com/
+
 ### CV
 
 1.Clarifai https://www.clarifai.com/  
@@ -282,7 +286,11 @@
 
 ### 4.3.MR
 
-1.Magic Leap https://www.magicleap.com/
+1.Magic Leap https://www.magicleap.com/  
+
+### 组织
+
+1.OpenXR https://www.khronos.org/openxr
 
 ## 5.机器人
 
