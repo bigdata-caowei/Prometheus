@@ -230,7 +230,8 @@
 14.海尔 U+ http://www.haieruplus.com/  
 15.IFTTT SmartThings https://ifttt.com/smartthings  
 16.AliOS http://www.alios.cn/  
-17.鎏云物联 https://www.cmpyun.com/
+17.鎏云物联 https://www.cmpyun.com/  
+18.阿里云 IoT https://iot.aliyun.com/
 
 ### 物联网操作系统
 
