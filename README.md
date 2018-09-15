@@ -310,7 +310,10 @@
 
 1.Boston Dynamics https://www.bostondynamics.com/  
 2.Woebot https://woebot.io/  
-3.Vicarious https://www.vicarious.com/
+3.Vicarious https://www.vicarious.com/  
+4.科沃斯 https://www.ecovacs.cn/  
+5.图灵 http://www.tuling123.com/  
+6.优必选 https://www.ubtrobot.com  
 
 ## 6.创客
 
