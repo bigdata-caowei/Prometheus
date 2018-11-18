@@ -140,7 +140,8 @@
 7.H20 https://www.h2o.ai/  
 8.第四范式 https://www.4paradigm.com/  
 9.Accompany https://www.accompany.com/  
-10.LifeSmart http://www.ilifesmart.com/
+10.LifeSmart http://www.ilifesmart.com/ . 
+11.虹软 https://www.arcsoft.com.cn/
 
 ### 2.8.News
 
