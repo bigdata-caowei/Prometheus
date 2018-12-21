@@ -70,6 +70,10 @@
 3.Intel AI 学院 https://software.intel.com/en-us/ai-academy/  
 4.XAIN https://www.xain.io/
 
+### 2.3 AI Voice
+
+1.DUI https://www.dui.ai/
+
 #### AI 公司
 
 1.bonsai https://bons.ai/  
