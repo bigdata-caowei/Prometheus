@@ -243,7 +243,8 @@
 
 ### 物联网操作系统
 
-1.RT-Thread https://www.rt-thread.org/
+1.RT-Thread https://www.rt-thread.org/   
+2.Ubuntu IoT https://www.ubuntu.com/internet-of-things
 
 ### 公司
 
