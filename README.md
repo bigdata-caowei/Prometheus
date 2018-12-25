@@ -118,7 +118,7 @@
 ### 2.6 智能操作系统
 
 1.DuerOS https://dueros.baidu.com/  
-2.斑马智行 https://www.hellobanma.com/
+2.斑马智行 http://www.ebanma.com
 
 ### 2.6.机器学习
 
@@ -243,7 +243,8 @@
 
 ### 物联网操作系统
 
-1.RT-Thread https://www.rt-thread.org/
+1.RT-Thread https://www.rt-thread.org/   
+2.Ubuntu IoT https://www.ubuntu.com/internet-of-things
 
 ### 公司
 
