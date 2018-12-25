@@ -126,7 +126,8 @@
 
 ### 2.7 智能锁
 
-1.优点科技 http://www.youdianhome.com/
+1.优点科技 http://www.youdianhome.com/  
+2.云丁科技 http://www.yunding.cn/
 
 ### 2.6.人工智能人物
 
