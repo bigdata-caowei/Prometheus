@@ -87,7 +87,8 @@
 4.Samsung Bixby https://www.samsung.com/us/explore/bixby/  
 5.小米小爱同学 https://xiaoai.mi.com/  
 6.OPPO breeno  
-7.vivo Jovi
+7.vivo Jovi  
+8.华为 HiAssistant
 
 ### 2.4.智能音箱
 
