@@ -84,7 +84,10 @@
 1.Siri https://www.apple.com/ios/siri/  
 2.Google Assistant https://assistant.google.com/  
 3.Microsoft Cortana https://www.microsoft.com/en-us/windows/cortana  
-4.Samsung Bixby https://www.samsung.com/us/explore/bixby/
+4.Samsung Bixby https://www.samsung.com/us/explore/bixby/  
+5.小米小爱同学 https://xiaoai.mi.com/  
+6.OPPO breeno  
+7.vivo Jovi
 
 ### 2.4.智能音箱
 
