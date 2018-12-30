@@ -61,7 +61,8 @@
 11.搜狗 AI http://ai.sogou.com/  
 12.x.ai https://x.ai/  
 13.华为 AI 开发平台 http://developer.huawei.com/consumer/cn/devservice/develop/huaweiai  
-14.腾讯云小微 https://xiaowei.qcloud.com/
+14.腾讯云小微 https://xiaowei.qcloud.com/  
+15.微软 AI https://azure.microsoft.com/zh-cn/overview/ai-platform/
 
 ### 2.2.AI Labs
 
