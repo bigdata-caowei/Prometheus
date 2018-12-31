@@ -16,7 +16,7 @@
         
         
         
-# **为了更好的给大家展现内容，方面大家参考，此项目正在调整内容架构，旧版本内容请参见：[未来元素 v1.0.0](https://github.com/FutureElements/FutureElements/blob/5f6edb3487474d359d30ee5518a68b00b21aa193/README.md)**
+# **为了更好的给大家展现内容，方便大家参考，此项目正在调整内容架构，旧版本内容请参见：[未来元素 v1.0.0](https://github.com/FutureElements/FutureElements/blob/5f6edb3487474d359d30ee5518a68b00b21aa193/README.md)**
         
        
 
