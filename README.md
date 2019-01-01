@@ -10,13 +10,36 @@
 
 ## 索引
 
-- [AI（人工智能)](##)
-    - [开放平台](###)
-        - [百度 AI 开发平台](####)
+- [AI](##AI)
+    - [AI 开放平台](###AI 开放平台)
+        - [百度 AI 开放平台](####百度 AI 开放平台)
         
         
         
-# **为了更好的给大家展现内容，方便大家参考，此项目正在调整内容架构，旧版本内容请参见：[未来元素 v1.0.0](https://github.com/FutureElements/FutureElements/blob/5f6edb3487474d359d30ee5518a68b00b21aa193/README.md)**
+        
+## AI
+
+AI (Artificial Intelligence)，人工智能。
+
+### AI 开放平台
+
+AI 开放平台是指具有一定能力的公司或组织，将自己的 AI 技术以开放的形式，免费或者付费的方式，供开发者进行上层应用开发的平台。
+
+#### 百度 AI 开放平台
+
+官网：[http://ai.baidu.com](http://ai.baidu.com)
+
+
+
+
+
+
+
+
+
+
+        
+# **为了更好的给大家展现内容，方面大家参考，此项目正在调整内容架构，旧版本内容请参见：[未来元素 v1.0.0](https://github.com/FutureElements/FutureElements/blob/5f6edb3487474d359d30ee5518a68b00b21aa193/README.md)**
         
        
 
