@@ -15,6 +15,8 @@
         - [百度 AI 平台](#百度-AI-平台)
         - [阿里 AI 平台](#阿里-AI-平台)
         - [腾讯 AI 平台](#腾讯-AI-平台)
+        - [小米 AI 平台](#小米-AI-平台)
+        - [讯飞 AI 平台](#讯飞-AI-平台)
         
 ## AI
 
@@ -45,14 +47,23 @@ AliGenie 语音开发者平台官网：[https://open.bot.tmall.com](https://open
 #### 腾讯 AI 平台
 
 腾讯 AI 平台目前只有一个。  
+
+腾讯 AI 平台官网：[https://ai.qq.com](https://ai.qq.com)  
 说明：基础的技术 SDK 及平台。  
-腾讯 AI 平台官网：[https://ai.qq.com](https://ai.qq.com)
 
+#### 小米 AI 平台
 
+小米 AI 平台主要是小爱开放平台。
 
+小爱开放平台官网：[https://xiaoai.mi.com](https://xiaoai.mi.com)  
+说明：主要是基于小爱的智能语音和小米生态的 IoT 系统。
 
+#### 讯飞 AI 平台
 
+科大讯飞 AI 平台目前主要是讯飞开放平台。
 
+讯飞开放平台官网：[https://www.xfyun.cn](https://www.xfyun.cn)  
+说明：主要是基于讯飞智能语音及周边技术服务。
 
 
 
