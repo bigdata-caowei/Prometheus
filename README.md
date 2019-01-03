@@ -17,6 +17,7 @@
         - [腾讯 AI 平台](#腾讯-AI-平台)
         - [小米 AI 平台](#小米-AI-平台)
         - [讯飞 AI 平台](#讯飞-AI-平台)
+        - [网易 AI 平台](#网易-AI-平台)
         
 ## AI
 
@@ -64,12 +65,17 @@ AliGenie 语音开发者平台官网：[https://open.bot.tmall.com](https://open
 
 #### 讯飞 AI 平台
 
-科大讯飞 AI 平台目前主要是讯飞开放平台。
+讯飞 AI 平台目前主要是讯飞开放平台。
 
 讯飞开放平台官网：[https://www.xfyun.cn](https://www.xfyun.cn)  
 说明：主要是基于讯飞智能语音及周边技术服务。
 
+#### 网易 AI 平台
 
+网易 AI 平台有网易 AI 平台。
+
+网易 AI 平台官网：[https://openai.163.com](https://openai.163.com)  
+说明：计算机视觉、智能语音、自然语言处理、数据智能等。
 
         
 # **为了更好的给大家展现内容，方便大家参考，此项目正在调整内容架构，旧版本内容请参见：[未来元素 v1.0.0](https://github.com/FutureElements/FutureElements/blob/5f6edb3487474d359d30ee5518a68b00b21aa193/README.md)**
