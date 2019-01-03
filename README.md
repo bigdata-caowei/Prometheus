@@ -18,6 +18,7 @@
         - [小米 AI 平台](#小米-AI-平台)
         - [讯飞 AI 平台](#讯飞-AI-平台)
         - [网易 AI 平台](#网易-AI-平台)
+        - [搜狗 AI 平台](#搜狗-AI-平台)
         
 ## AI
 
@@ -72,10 +73,19 @@ AliGenie 语音开发者平台官网：[https://open.bot.tmall.com](https://open
 
 #### 网易 AI 平台
 
-网易 AI 平台有网易 AI 平台。
+网易 AI 平台有网易 AI 平台和有道智云。
 
 网易 AI 平台官网：[https://openai.163.com](https://openai.163.com)  
-说明：计算机视觉、智能语音、自然语言处理、数据智能等。
+说明：计算机视觉、智能语音、自然语言处理、数据智能等。  
+有道智云官网：[https://ai.youdao.com](https://ai.youdao.com)  
+说明：主要基于有道及周边的智能服务。
+
+#### 搜狗 AI 平台
+
+搜狗 AI 平台主要是搜狗 AI 开放平台。
+
+搜狗 AI 开放平台官网：[http://ai.sogou.com](http://ai.sogou.com)  
+说明：主要是基于搜狗搜索相关技术的智能服务。
 
         
 # **为了更好的给大家展现内容，方便大家参考，此项目正在调整内容架构，旧版本内容请参见：[未来元素 v1.0.0](https://github.com/FutureElements/FutureElements/blob/5f6edb3487474d359d30ee5518a68b00b21aa193/README.md)**
