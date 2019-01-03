@@ -46,10 +46,14 @@ AliGenie 语音开发者平台官网：[https://open.bot.tmall.com](https://open
 
 #### 腾讯 AI 平台
 
-腾讯 AI 平台目前只有一个。  
+腾讯 AI 平台目前有三个，腾讯 AI 平台，腾讯云叮当，还有腾讯云小微。其中，云叮当和云小微应该是内部竞争关系，虽然业务方向和业务资源有所不同。  
 
 腾讯 AI 平台官网：[https://ai.qq.com](https://ai.qq.com)  
 说明：基础的技术 SDK 及平台。  
+腾讯云叮当官网：[https://dingdang.qq.com](https://dingdang.qq.com)  
+说明：提供智能硬件开放平台，为智能设备提供智能语音服务以及开放 Skill 平台。  
+腾讯云小微官网：[https://xiaowei.qcloud.com](https://xiaowei.qcloud.com)  
+说明：提供智能硬件开放平台，为智能设备提供智能语音服务以及开放 Skill 平台。
 
 #### 小米 AI 平台
 
