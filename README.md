@@ -21,6 +21,11 @@
         - [搜狗 AI 平台](#搜狗-AI-平台)
         - [华为 AI 平台](#华为-AI-平台)
         - [京东 AI 平台](#京东-AI-平台)
+        - [思必驰 AI 平台](思必驰-AI-平台)
+    - [AI Lab](#AI-Lab)
+        - [百度 AI Lab](#百度-AI-Lab)
+        - [阿里 AI Lab](#阿里-AI-Lab)
+        - [腾讯 AI Lab](#腾讯-AI-Lab)
         
 ## AI
 
@@ -102,6 +107,15 @@ AliGenie 语音开发者平台官网：[https://open.bot.tmall.com](https://open
 
 京东 NeuHub AI 开放平台官网：[https://neuhub.jd.com](https://neuhub.jd.com)  
 说明：基于京东电商及物流相关的 AI 开放技术。
+
+#### 思必驰 AI 平台
+
+思必驰 AI 平台主要是 DUI 开放平台。
+
+DUI 开放平台官网：[https://www.dui.ai](https://www.dui.ai)  
+说明：基于思必驰智能语音 AI 开放技术。
+
+
 
 # **为了更好的给大家展现内容，方便大家参考，此项目正在调整内容架构，旧版本内容请参见：[未来元素 v1.0.0](https://github.com/FutureElements/FutureElements/blob/5f6edb3487474d359d30ee5518a68b00b21aa193/README.md)**
         
