@@ -19,6 +19,8 @@
         - [讯飞 AI 平台](#讯飞-AI-平台)
         - [网易 AI 平台](#网易-AI-平台)
         - [搜狗 AI 平台](#搜狗-AI-平台)
+        - [华为 AI 平台](#华为-AI-平台)
+        - [京东 AI 平台](#京东-AI-平台)
         
 ## AI
 
@@ -87,7 +89,20 @@ AliGenie 语音开发者平台官网：[https://open.bot.tmall.com](https://open
 搜狗 AI 开放平台官网：[http://ai.sogou.com](http://ai.sogou.com)  
 说明：主要是基于搜狗搜索相关技术的智能服务。
 
-        
+#### 华为 AI 平台
+
+华为 AI 平台目前主要是 HiAI。
+
+华为 HiAI 官网：[https://developer.huawei.com/consumer/cn/hiai](https://developer.huawei.com/consumer/cn/hiai)  
+说明：HiAI 是面向移动终端的AI能力开放平台，构建三层 AI 生态：服务能力开放、应用能力开放和芯片能力开放。
+
+#### 京东 AI 平台
+
+京东 AI 平台主要是 NeuHub 京东 AI 开放平台。
+
+京东 NeuHub AI 开放平台官网：[https://neuhub.jd.com](https://neuhub.jd.com)  
+说明：基于京东电商及物流相关的 AI 开放技术。
+
 # **为了更好的给大家展现内容，方便大家参考，此项目正在调整内容架构，旧版本内容请参见：[未来元素 v1.0.0](https://github.com/FutureElements/FutureElements/blob/5f6edb3487474d359d30ee5518a68b00b21aa193/README.md)**
         
        
