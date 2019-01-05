@@ -115,6 +115,30 @@ AliGenie 语音开发者平台官网：[https://open.bot.tmall.com](https://open
 DUI 开放平台官网：[https://www.dui.ai](https://www.dui.ai)  
 说明：基于思必驰智能语音 AI 开放技术。
 
+### AI Lab
+
+AI Lab 主要是基于底层的学术研究与技术架构，连同上层应用的通道。  
+
+#### 百度 AI Lab
+
+百度的 AI Lab 早期基于百度硅谷 AI 实验室。
+
+百度硅谷 AI 实验室官网：暂无
+
+#### 阿里 AI Lab
+
+阿里 AI Lab 依托于阿里巴巴达摩院。
+
+阿里 AI Lab 官网：[https://damo.alibaba.com/labs/ai](https://damo.alibaba.com/labs/ai)  
+说明：研究方向：语音助手、工业设计、智能制造、机器人技术等。
+
+#### 腾讯 AI Lab
+
+腾讯 AI Lab 是独立的人工智能实验室。
+
+腾讯 AI Lab 官网：[https://ai.tencent.com/ailab](https://ai.tencent.com/ailab)  
+说明：基础研究方向包括计算机视觉、语音识别、自然语言处理和机器学习，应用探索结合了腾讯场景与业务优势，为内容、游戏、社交和平台工具型 AI 四类，目前已打造出围棋AI“绝艺”。
+
 
 
 # **为了更好的给大家展现内容，方便大家参考，此项目正在调整内容架构，旧版本内容请参见：[未来元素 v1.0.0](https://github.com/FutureElements/FutureElements/blob/5f6edb3487474d359d30ee5518a68b00b21aa193/README.md)**
