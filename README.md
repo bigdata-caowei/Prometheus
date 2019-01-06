@@ -12,29 +12,30 @@
 
 - [AI](#AI)
     - [AI 开放平台](#AI-开放平台)
-        - [🇨🇳中国](#🇨🇳中国)
-            - [百度 AI 平台](#百度-AI-平台)
-            - [阿里 AI 平台](#阿里-AI-平台)
-            - [腾讯 AI 平台](#腾讯-AI-平台)
-            - [小米 AI 平台](#小米-AI-平台)
-            - [讯飞 AI 平台](#讯飞-AI-平台)
-            - [网易 AI 平台](#网易-AI-平台)
-            - [搜狗 AI 平台](#搜狗-AI-平台)
-            - [华为 AI 平台](#华为-AI-平台)
-            - [京东 AI 平台](#京东-AI-平台)
-            - [思必驰 AI 平台](#思必驰-AI-平台)
-            - [ROOBO AI 平台](#ROOBO-AI-平台)
-        - [🇺🇸美国](#🇺🇸美国)
-            - [Google AI Platform](#Google-AI-Platform)
-            - [Amazon AI Platform](#Amazon-AI-Platform)
-            - [Facebook AI Platform](#Facebook-AI-Platform)
-            - [Microsoft AI Platform](#Microsoft-AI-Platform)
+        - [百度 AI 平台](#百度-AI-平台)
+        - [阿里 AI 平台](#阿里-AI-平台)
+        - [腾讯 AI 平台](#腾讯-AI-平台)
+        - [小米 AI 平台](#小米-AI-平台)
+        - [讯飞 AI 平台](#讯飞-AI-平台)
+        - [网易 AI 平台](#网易-AI-平台)
+        - [搜狗 AI 平台](#搜狗-AI-平台)
+        - [华为 AI 平台](#华为-AI-平台)
+        - [京东 AI 平台](#京东-AI-平台)
+        - [思必驰 AI 平台](#思必驰-AI-平台)
+        - [ROOBO AI 平台](#ROOBO-AI-平台)
+        - [Google AI Platform](#Google-AI-Platform)
+        - [Amazon AI Platform](#Amazon-AI-Platform)
+        - [Facebook AI Platform](#Facebook-AI-Platform)
+        - [Microsoft AI Platform](#Microsoft-AI-Platform)
     - [AI Lab](#AI-Lab)
-        - [🇨🇳中国](#🇨🇳中国)
-            - [百度 AI Lab](#百度-AI-Lab)
-            - [阿里 AI Lab](#阿里-AI-Lab)
-            - [腾讯 AI Lab](#腾讯-AI-Lab)
-        
+        - [百度 AI Lab](#百度-AI-Lab)
+        - [阿里 AI Lab](#阿里-AI-Lab)
+        - [腾讯 AI Lab](#腾讯-AI-Lab)
+    - [AI 公司](#AI-公司)
+        - [DeepMind](#DeepMind)
+        - [X.AI](#X.AI)
+        - [LANDING.AI](#LANDING.AI)
+
 ## AI
 
 AI (Artificial Intelligence)，人工智能。
@@ -42,8 +43,6 @@ AI (Artificial Intelligence)，人工智能。
 ### AI 开放平台
 
 AI 开放平台是指具有一定能力的公司或组织，将自己的 AI 技术以开放的形式，免费或者付费的方式，供开发者进行上层应用开发的平台。
-
-#### 🇨🇳中国
 
 #### 百度 AI 平台
 
@@ -132,8 +131,6 @@ ROOBO AI 平台目前主要是 ROS 平台。
 ROOBO ROS.AI 人工智能方案平台官网：[https://www.ros.ai](https://www.ros.ai)  
 说明：ROS.AI 是为设备提供 AI 交互能力整体解决方案的人工智能方案平台。ROS.AI 为开发者提供硬件模组、软件系统和各种人工智能服务，是更全面、更灵活的开放平台和解决方案平台。
 
-#### 🇺🇸美国
-
 #### Google AI Platform
 
 目前谷歌 AI 的内容主要在 Google AI 网站。这个网站目前采用的是 .google 后缀的域名，很酷！
@@ -186,7 +183,28 @@ AI Lab 主要是基于底层的学术研究与技术架构，连同上层应用�
 腾讯 AI Lab 官网：[https://ai.tencent.com/ailab](https://ai.tencent.com/ailab)  
 说明：基础研究方向包括计算机视觉、语音识别、自然语言处理和机器学习，应用探索结合了腾讯场景与业务优势，为内容、游戏、社交和平台工具型 AI 四类，目前已打造出围棋AI“绝艺”。
 
+### AI 公司
 
+#### DeepMind
+
+DeepMind 公司是 Google 旗下的 AI 公司。
+
+DeepMind 官网：[https://deepmind.com](https://deepmind.com)  
+说明：DeepMind 最为大家熟知的便是 AlphaGo，围棋顶级 AI。另外在医疗保健行业也有所作为。
+
+#### X.AI
+
+X.AI 公司主要是提供个人助理服务。
+
+X.AI 官网：[https://x.ai](https://x.ai)  
+说明：X.AI 主要提供会议及约会智能助理服务。
+
+#### LANDING.AI
+
+LANDING.AI 公司是由吴恩达创办的将 AI 服务于传统制造行业。
+
+X.AI 官网：[https://x.ai](https://x.ai)  
+说明：LANDING.AI 将会通过 AI 提供传统制造的产品质量、良率、生产效率等。
 
 # **为了更好的给大家展现内容，方便大家参考，此项目正在调整内容架构，旧版本内容请参见：[未来元素 v1.0.0](https://github.com/FutureElements/FutureElements/blob/5f6edb3487474d359d30ee5518a68b00b21aa193/README.md)**
         
