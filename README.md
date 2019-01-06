@@ -24,10 +24,14 @@
             - [京东 AI 平台](#京东-AI-平台)
             - [思必驰 AI 平台](#思必驰-AI-平台)
             - [ROOBO AI 平台](#ROOBO-AI-平台)
-    - [AI Lab](#AI-Lab)
-        - [百度 AI Lab](#百度-AI-Lab)
-        - [阿里 AI Lab](#阿里-AI-Lab)
-        - [腾讯 AI Lab](#腾讯-AI-Lab)
+        - [🇺🇸美国](#🇺🇸美国)
+            - [Google AI Platform](#Google-AI-Platform)
+            - [Amazon AI Platform](#Amazon-AI-Platform)
+        - [🇨🇳中国](#🇨🇳中国)
+            - [AI Lab](#AI-Lab)
+            - [百度 AI Lab](#百度-AI-Lab)
+            - [阿里 AI Lab](#阿里-AI-Lab)
+            - [腾讯 AI Lab](#腾讯-AI-Lab)
         
 ## AI
 
@@ -36,6 +40,8 @@ AI (Artificial Intelligence)，人工智能。
 ### AI 开放平台
 
 AI 开放平台是指具有一定能力的公司或组织，将自己的 AI 技术以开放的形式，免费或者付费的方式，供开发者进行上层应用开发的平台。
+
+#### 🇨🇳中国
 
 #### 百度 AI 平台
 
@@ -123,6 +129,23 @@ ROOBO AI 平台目前主要是 ROS 平台。
 
 ROOBO ROS.AI 人工智能方案平台官网：[https://www.ros.ai](https://www.ros.ai)  
 说明：ROS.AI 是为设备提供 AI 交互能力整体解决方案的人工智能方案平台。ROS.AI 为开发者提供硬件模组、软件系统和各种人工智能服务，是更全面、更灵活的开放平台和解决方案平台。
+
+#### 🇺🇸美国
+
+#### Google AI Platform
+
+目前谷歌 AI 的内容主要在 Google AI 网站。这个网站目前采用的是 .google 后缀的域名，很酷！
+
+Google AI Plaform official website：[https://ai.google](https://ai.google)  
+说明：目前 Google 提供的 AI 开放能力较多，还有各种开源技术框架。
+
+#### Amazon AI Platform
+
+亚马逊 AI 目前主要基于亚马逊 AWS 服务上。
+
+Amazon AI Plaform official website：[https://aws.amazon.com/machine-learning](https://aws.amazon.com/machine-learning)  
+说明：亚马逊 AI 主要基于 AWS 上，侧重于机器学习和深度学习。
+
 
 ### AI Lab
 
