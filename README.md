@@ -22,6 +22,7 @@
         - [华为 AI 平台](#华为-AI-平台)
         - [京东 AI 平台](#京东-AI-平台)
         - [思必驰 AI 平台](#思必驰-AI-平台)
+        - [猎户星空 AI 平台](#猎户星空-AI-平台)
         - [ROOBO AI 平台](#ROOBO-AI-平台)
         - [Google AI Platform](#Google-AI-Platform)
         - [Amazon AI Platform](#Amazon-AI-Platform)
@@ -123,6 +124,13 @@ AliGenie 语音开发者平台官网：[https://open.bot.tmall.com](https://open
 
 DUI 开放平台官网：[https://www.dui.ai](https://www.dui.ai)  
 说明：基于思必驰智能语音 AI 开放技术。
+
+#### 猎户星空 AI 平台
+
+猎户星空 AI 平台曾为小米、锤子提供服务。
+
+猎户星空语音 OS 开放平台官网：[https://open.ainirobot.com](https://open.ainirobot.com)  
+说明：猎户星空语音 OS 主要是基于智能语音的服务。
 
 #### ROOBO AI 平台
 
