@@ -27,8 +27,10 @@
         - [🇺🇸美国](#🇺🇸美国)
             - [Google AI Platform](#Google-AI-Platform)
             - [Amazon AI Platform](#Amazon-AI-Platform)
+            - [Facebook AI Platform](#Facebook-AI-Platform)
+            - [Microsoft AI Platform](#Microsoft-AI-Platform)
+    - [AI Lab](#AI-Lab)
         - [🇨🇳中国](#🇨🇳中国)
-            - [AI Lab](#AI-Lab)
             - [百度 AI Lab](#百度-AI-Lab)
             - [阿里 AI Lab](#阿里-AI-Lab)
             - [腾讯 AI Lab](#腾讯-AI-Lab)
@@ -146,6 +148,19 @@ Google AI Plaform official website：[https://ai.google](https://ai.google)
 Amazon AI Plaform official website：[https://aws.amazon.com/machine-learning](https://aws.amazon.com/machine-learning)  
 说明：亚马逊 AI 主要基于 AWS 上，侧重于机器学习和深度学习。
 
+#### Facebook AI Platform
+
+Facebook AI 平台目前提供大量的工具与框架。
+
+Amazon AI Plaform official website：[https://facebook.ai](https://facebook.ai)  
+说明：Facebook AI 有诸如 Pytorch/Caffe2/ONNX 等知名开源框架及工具。
+
+#### Microsoft AI Platform
+
+微软也提供了 AI 技术平台，有相关的服务、工具、学院等。
+
+Microsoft AI Platform official website:[https://www.microsoft.com/en-us/ai/ai-platform](https://www.microsoft.com/en-us/ai/ai-platform)  
+说明：微软 AI 平台有计算机视觉、机器学习、深度学习服务与工具等。
 
 ### AI Lab
 
