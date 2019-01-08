@@ -40,6 +40,8 @@
 - [IoT](#IoT)
     - [IoT 开放平台](#IoT-开放平台)
         - [小米 IoT 平台](#小米-IoT-平台)
+        - [涂鸦 IoT 平台](#涂鸦-IoT-平台)
+        - [机智云 IoT 平台](#机智云-IoT-平台)
 
 ## AI
 
@@ -239,6 +241,20 @@ IoT 开放平台是指具有一定能力的公司或组织，将自己的 IoT �
 
 小米 IoT 开发者平台官网：[https://iot.mi.com](https://iot.mi.com)  
 说明：基于直连和云云对接嵌入小米智能模组和集成 SDK。
+
+#### 涂鸦 IoT 平台
+
+涂鸦 IoT 平台目前主要是涂鸦智能平台。
+
+涂鸦智能平台官网：[https://www.tuya.com](https://www.tuya.com)  
+说明：全球化智能电器、电工、照明服务。
+
+#### 机智云 IoT 平台
+
+机智云 IoT 平台目前主要机智云物联网服务平台。
+
+机智云 IoT 服务平台官网：[http://www.gizwits.com](http://www.gizwits.com)  
+说明：产品选型、模组购买、工业互联网等服务。
 
 
 # **为了更好的给大家展现内容，方便大家参考，此项目正在调整内容架构，旧版本内容请参见：[未来元素 v1.0.0](https://github.com/FutureElements/FutureElements/blob/5f6edb3487474d359d30ee5518a68b00b21aa193/README.md)**
