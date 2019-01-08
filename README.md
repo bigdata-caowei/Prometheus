@@ -42,6 +42,7 @@
         - [小米 IoT 平台](#小米-IoT-平台)
         - [涂鸦 IoT 平台](#涂鸦-IoT-平台)
         - [机智云 IoT 平台](#机智云-IoT-平台)
+        - [云知声 IoT 平台](#云知声-IoT-平台)
 
 ## AI
 
@@ -255,6 +256,13 @@ IoT 开放平台是指具有一定能力的公司或组织，将自己的 IoT �
 
 机智云 IoT 服务平台官网：[http://www.gizwits.com](http://www.gizwits.com)  
 说明：产品选型、模组购买、工业互联网等服务。
+
+#### 云知声 IoT 平台
+
+云知声 IoT 平台主要是云知声开放平台。
+
+云知声开放平台官网：[http://dev.hivoice.cn](http://dev.hivoice.cn)  
+说明：基于云、端、芯的全方位物联网开放服务。
 
 
 # **为了更好的给大家展现内容，方便大家参考，此项目正在调整内容架构，旧版本内容请参见：[未来元素 v1.0.0](https://github.com/FutureElements/FutureElements/blob/5f6edb3487474d359d30ee5518a68b00b21aa193/README.md)**
