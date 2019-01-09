@@ -40,6 +40,8 @@
     - [语音助手](#语音助手)
         - [小米小爱同学](#小米小爱同学)
         - [华为 HiAssistant](#华为-HiAssistant)
+        - [Apple Siri](#Apple-Siri)
+        - [Google Assistant](#Google-Assistant)
 - [IoT](#IoT)
     - [IoT 开放平台](#IoT-开放平台)
         - [小米 IoT 平台](#小米-IoT-平台)
@@ -246,7 +248,18 @@ X.AI 官网：[https://x.ai](https://x.ai)
 
 华为 HiAssistant 官网：暂无
 
+#### Apple Siri
 
+苹果的语音助手 Siri 目前已经用于苹果的诸多硬件产品中。
+
+苹果语音助手 Siri 官网：[https://www.apple.com/siri](https://www.apple.com/siri)  
+说明：苹果的 Siri 已经搭载到电脑、平板电脑、手机等。
+
+#### Google Assistant
+
+Google 的语音助手目前还没有一个统一的名字。目前就叫 Google Assistant。
+
+Google Assistant 官网：[https://assistant.google.com](https://assistant.google.com)
 
 
 ## IoT
