@@ -37,6 +37,9 @@
         - [DeepMind](#DeepMind)
         - [X.AI](#X.AI)
         - [LANDING.AI](#LANDING.AI)
+    - [语音助手](#语音助手)
+        - [小米小爱同学](#小米小爱同学)
+        - [华为 HiAssistant](#华为-HiAssistant)
 - [IoT](#IoT)
     - [IoT 开放平台](#IoT-开放平台)
         - [小米 IoT 平台](#小米-IoT-平台)
@@ -227,6 +230,24 @@ LANDING.AI 公司是由吴恩达创办的将 AI 服务于传统制造行业。
 
 X.AI 官网：[https://x.ai](https://x.ai)  
 说明：LANDING.AI 将会通过 AI 提供传统制造的产品质量、良率、生产效率等。
+
+### 语音助手
+
+#### 小米小爱同学
+
+小米的语音助手目前叫小爱同学，小爱中的爱字，来源于人工智能的 AI。
+
+小米小爱同学官网：[https://xiaoai.mi.com](https://xiaoai.mi.com)  
+说明：小爱同学目前已经搭载到 MIUI 系统，同时和微软小冰和合作，集成到了小米智能音箱，同时有开放平台。
+
+#### 华为 HiAssistant
+
+华为的新语音助手叫 HiAssistant 相对于之前预装的 HiVoice 更加智能。
+
+华为 HiAssistant 官网：暂无
+
+
+
 
 ## IoT
 
