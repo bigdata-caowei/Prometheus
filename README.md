@@ -40,6 +40,8 @@
     - [语音助手](#语音助手)
         - [小米小爱同学](#小米小爱同学)
         - [华为 HiAssistant](#华为-HiAssistant)
+        - [OPPO Breeno](#OPPO-Breeno)
+        - [Vivo Jovi](#Vivo-Jovi)
         - [三星 Bixby](#三星-Bixby)
         - [Apple Siri](#Apple-Siri)
         - [Microsoft Cortana](#Microsoft-Cortana)
@@ -249,6 +251,20 @@ X.AI 官网：[https://x.ai](https://x.ai)
 华为的新语音助手叫 HiAssistant 相对于之前预装的 HiVoice 更加智能。
 
 华为 HiAssistant 官网：暂无
+
+#### OPPO Breeno
+
+OPPO 的语音助手叫 Breeno。
+
+OPPO Breeno 官网：暂无
+
+#### Vivo Jovi
+
+Vivo 的语音助手叫 Jovi。
+
+Vivo Jovi 官网：暂无
+
+
 
 #### 三星 Bixby
 
