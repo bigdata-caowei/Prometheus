@@ -40,7 +40,9 @@
     - [语音助手](#语音助手)
         - [小米小爱同学](#小米小爱同学)
         - [华为 HiAssistant](#华为-HiAssistant)
+        - [三星 Bixby](#三星-Bixby)
         - [Apple Siri](#Apple-Siri)
+        - [Microsoft Cortana](#Microsoft-Cortana)
         - [Google Assistant](#Google-Assistant)
 - [IoT](#IoT)
     - [IoT 开放平台](#IoT-开放平台)
@@ -248,12 +250,26 @@ X.AI 官网：[https://x.ai](https://x.ai)
 
 华为 HiAssistant 官网：暂无
 
+#### 三星 Bixby
+
+三星的语音助手 Bixby 应该是目前手机上最好的支持中文的语音助手，与第三方应用，比如微信的交互也更加深度。
+
+三星 Bixby 官网：[https://www.samsung.com/us/explore/bixby](https://www.samsung.com/us/explore/bixby)  
+说明：Bixby 目前搭载在三星手机上，支持中英文，而且能够与智能家居联动。
+
 #### Apple Siri
 
 苹果的语音助手 Siri 目前已经用于苹果的诸多硬件产品中。
 
 苹果语音助手 Siri 官网：[https://www.apple.com/siri](https://www.apple.com/siri)  
 说明：苹果的 Siri 已经搭载到电脑、平板电脑、手机等。
+
+#### Microsoft Cortana
+
+微软的语音助手名字叫 Cortana，之前在国内有一个聊天机器人叫微软小冰。  
+
+Microsoft Cortana 官网：[https://www.microsoft.com/en-us/cortana](https://www.microsoft.com/en-us/cortana)  
+说明：Cortana 主要应用在 Windows 系统中。
 
 #### Google Assistant
 
