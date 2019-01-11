@@ -52,6 +52,9 @@
         - [涂鸦 IoT 平台](#涂鸦-IoT-平台)
         - [机智云 IoT 平台](#机智云-IoT-平台)
         - [云知声 IoT 平台](#云知声-IoT-平台)
+- [AR/VR/MR](#AR/VR/MR)
+    - [AR/VR/MR 开放平台](#AR/VR/MR-开放平台)
+        - [百度 AR 平台](#百度-AR-平台)
 
 ## AI
 
@@ -330,6 +333,20 @@ IoT 开放平台是指具有一定能力的公司或组织，将自己的 IoT �
 云知声开放平台官网：[http://dev.hivoice.cn](http://dev.hivoice.cn)  
 说明：基于云、端、芯的全方位物联网开放服务。
 
+## AR/VR/MR
+
+AR(Augmented Reality)/VR(Virtual Reality)/MR(Mixed Reality)，增强现实/虚拟现实/混合现实。
+
+### AR/VR/MR 开放平台
+
+AR/VR/MR 开放平台是指具有一定能力的公司或组织，将自己的 AR/VR/MR 技术以开放的形式，免费或者付费的方式，供开发者进行上层应用开发的平台。
+
+#### 百度 AR 平台
+
+百度 AR 平台叫 DuMix AR 平台。
+
+百度 Dumix AR 开放平台官网：[https://ar.baidu.com/platform](https://ar.baidu.com/platform)  
+说明：基础的技术 SDK 及平台。  
 
 # **为了更好的给大家展现内容，方便大家参考，此项目正在调整内容架构，旧版本内容请参见：[未来元素 v1.0.0](https://github.com/FutureElements/FutureElements/blob/5f6edb3487474d359d30ee5518a68b00b21aa193/README.md)**
         
