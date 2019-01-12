@@ -38,6 +38,10 @@
         - [DeepMind](#DeepMind)
         - [X.AI](#X.AI)
         - [LANDING.AI](#LANDING.AI)
+    - [AI 人物](#AI-人物)
+        - [李开复](#李开复)
+        - [李飞飞](#李飞飞)
+        - [吴恩达](#吴恩达)
     - [语音助手](#语音助手)
         - [小米小爱同学](#小米小爱同学)
         - [华为 HiAssistant](#华为-HiAssistant)
@@ -247,6 +251,32 @@ LANDING.AI 公司是由吴恩达创办的将 AI 服务于传统制造行业。
 
 X.AI 官网：[https://x.ai](https://x.ai)  
 说明：LANDING.AI 将会通过 AI 提供传统制造的产品质量、良率、生产效率等。
+
+### AI 人物
+
+#### 李开复
+
+李开复先后任职微软、苹果和谷歌，创办创新工场。对于 AI 的关注，也一直处于前沿。
+
+李开复微博：[https://www.weibo.com/kaifulee](https://www.weibo.com/kaifulee)  
+李开复知乎：[https://www.zhihu.com/people/kaifulee](https://www.zhihu.com/people/kaifulee)  
+李开复维基百科：[https://zh.wikipedia.org/zh-hans/%E6%9D%8E%E9%96%8B%E5%BE%A9](https://zh.wikipedia.org/zh-hans/%E6%9D%8E%E9%96%8B%E5%BE%A9)
+
+#### 李飞飞
+
+李飞飞在人工智能中的计算机视觉、机器学习等领域有很高的学术成就，中途也加入过谷歌。
+
+李飞飞 Twitter：[https://twitter.com/drfeifei](https://twitter.com/drfeifei)  
+李飞飞维基百科：[https://zh.wikipedia.org/zh-hans/%E6%9D%8E%E9%A3%9B%E9%A3%9B](https://zh.wikipedia.org/zh-hans/%E6%9D%8E%E9%A3%9B%E9%A3%9B)
+
+#### 吴恩达
+
+吴恩达曾在谷歌、百度任职，斯坦福大学副教授，目前担任 Landing.ai CEO。
+
+
+吴恩达个人网站：[https://www.andrewng.org](https://www.andrewng.org)  
+吴恩达维基百科：[https://zh.wikipedia.org/wiki/%E5%90%B4%E6%81%A9%E8%BE%BE](https://zh.wikipedia.org/wiki/%E5%90%B4%E6%81%A9%E8%BE%BE)
+
 
 ### 语音助手
 
