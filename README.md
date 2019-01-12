@@ -33,6 +33,7 @@
         - [阿里 AI Lab](#阿里-AI-Lab)
         - [腾讯 AI Lab](#腾讯-AI-Lab)
         - [滴滴 AI Lab](#滴滴-AI-Lab)
+        - [Intel AI Academy](#Intel-AI-Academy)
     - [AI 公司](#AI-公司)
         - [DeepMind](#DeepMind)
         - [X.AI](#X.AI)
@@ -49,6 +50,7 @@
 - [IoT](#IoT)
     - [IoT 开放平台](#IoT-开放平台)
         - [小米 IoT 平台](#小米-IoT-平台)
+        - [腾讯 IoT 平台](腾讯-IoT-平台)
         - [涂鸦 IoT 平台](#涂鸦-IoT-平台)
         - [机智云 IoT 平台](#机智云-IoT-平台)
         - [云知声 IoT 平台](#云知声-IoT-平台)
@@ -217,6 +219,12 @@ AI Lab 主要是基于底层的学术研究与技术架构，连同上层应用�
 滴滴 AI Lab 官网：[http://www.didi-labs.com](http://www.didi-labs.com)  
 说明：主要是研究基于出行周边整个生态系统的相关学术研究。
 
+#### Intel AI Academy
+
+因特尔目前有 AI 学院。
+
+Intel AI Academy 官网：[https://software.intel.com/en-us/ai-academy](https://software.intel.com/en-us/ai-academy)
+
 ### AI 公司
 
 #### DeepMind
@@ -311,6 +319,14 @@ IoT 开放平台是指具有一定能力的公司或组织，将自己的 IoT �
 
 小米 IoT 开发者平台官网：[https://iot.mi.com](https://iot.mi.com)  
 说明：基于直连和云云对接嵌入小米智能模组和集成 SDK。
+
+#### 腾讯 IoT 平台
+
+腾讯 IoT 平台目前有三个，一个是 QQ 物联智能硬件开放平台，一个是微信硬件平台，另外一个是腾讯云平台加速物联网套件 IoT Suite。
+
+QQ 物联智能硬件开放平台官网：[https://iot.open.qq.com](https://iot.open.qq.com)  
+微信硬件平台官网：[https://iot.weixin.qq.com](https://iot.weixin.qq.com)  
+腾讯云平台加速物联网套件官网：[https://cloud.tencent.com/product/iotsuite](https://cloud.tencent.com/product/iotsuite)
 
 #### 涂鸦 IoT 平台
 
