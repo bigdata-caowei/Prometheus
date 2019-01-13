@@ -60,6 +60,9 @@
         - [机智云 IoT 平台](#机智云-IoT-平台)
         - [云知声 IoT 平台](#云知声-IoT-平台)
         - [中移动 IoT 平台](#中移动-IoT-平台)
+        - [云智易 IoT 平台](#云智易-IoT-平台)
+    - [IoT 操作系统](#IoT-操作系统)
+        - [阿里 IoT 操作系统](#阿里-IoT-操作系统)
 - [IoV](#IoV)
     - [IoV 开放平台](#IoV-开放平台)
         - [百度 IoV 开放平台](#百度-IoV-开放平台)
@@ -396,6 +399,23 @@ QQ 物联智能硬件开放平台官网：[https://iot.open.qq.com](https://iot.
 中国移动 IoT 平台，目前主要是 OneNET 物联网开放平台。
 
 中移动物联网开放平台官网：[https://open.iot.10086.cn](https://open.iot.10086.cn)
+
+#### 云智易 IoT 平台
+
+云智易 IoT 平台是属于广州云智易物联网有限公司旗下品牌。
+
+云智易物联网云平台官网：[http://www.xlink.cn](http://www.xlink.cn)
+
+### IoT 操作系统
+
+IoT 操作系统是针对于物联网的操作系统，一般和嵌入式结合较为紧密。
+
+#### 阿里 IoT 操作系统
+
+阿里巴巴推出的物联网操作系统是 AliOS。
+
+AliOS 官网：[http://www.alios.cn](http://www.alios.cn)  
+说明：AliOS 有 AliOS 和 AliOS Things，AliOS 是面向多端的物联网操作系统，而 AliOS Things 是面向 IoT 领域的轻量级物联网嵌入式操作系统。
 
 ## IoV
 
