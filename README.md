@@ -55,7 +55,9 @@
 - [IoT](#IoT)
     - [IoT 开放平台](#IoT-开放平台)
         - [小米 IoT 平台](#小米-IoT-平台)
-        - [腾讯 IoT 平台](腾讯-IoT-平台)
+        - [腾讯 IoT 平台](#腾讯-IoT-平台)
+        - [京东 IoT 平台](#京东-IoT-平台)
+        - [海尔 IoT 平台](#海尔-IoT-平台)
         - [涂鸦 IoT 平台](#涂鸦-IoT-平台)
         - [机智云 IoT 平台](#机智云-IoT-平台)
         - [云知声 IoT 平台](#云知声-IoT-平台)
@@ -372,6 +374,20 @@ IoT 开放平台是指具有一定能力的公司或组织，将自己的 IoT �
 QQ 物联智能硬件开放平台官网：[https://iot.open.qq.com](https://iot.open.qq.com)  
 微信硬件平台官网：[https://iot.weixin.qq.com](https://iot.weixin.qq.com)  
 腾讯云平台加速物联网套件官网：[https://cloud.tencent.com/product/iotsuite](https://cloud.tencent.com/product/iotsuite)
+
+#### 京东 IoT 平台
+
+京东 IoT 平台叫小京鱼智能服务平台。
+
+小京鱼智能服务平台官网：[https://smartdev.jd.com](https://smartdev.jd.com)  
+说明：基于自主研发的 Joylink 协议，以及跨品牌、跨品类智能设备的互联互通整体解决方案，快速实现硬件智能化。
+
+#### 海尔 IoT 平台
+
+海尔 IoT 平台叫海尔 U+(优家)。
+
+海尔 U+ 官网：[http://www.haieruplus.com](http://www.haieruplus.com)  
+说明：U+智慧生活平台（简称U+平台），是海尔旗下智慧家庭领域全开放、全兼容、全交互的智慧生活平台。U+平台以U+物联平台、U+大数据平台、U+交互平台、U+生态平台为基础，以引领物联网时代智慧家庭为目标。以用户社群为中心，通过自然的人机交互和分布式场景网器，搭建U+智慧生活平台的物联云和云脑，为行业提供物联网时代智慧家庭全场景生态解决方案，实现智能全场景，共赢新生态；为用户提供厨房美食、卫浴洗护、起居、安防、娱乐等家庭生态体验。
 
 #### 涂鸦 IoT 平台
 
