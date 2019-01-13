@@ -23,6 +23,7 @@
         - [京东 AI 平台](#京东-AI-平台)
         - [思必驰 AI 平台](#思必驰-AI-平台)
         - [猎户星空 AI 平台](#猎户星空-AI-平台)
+        - [出门问问 AI 平台](出门问问-AI-平台)
         - [ROOBO AI 平台](#ROOBO-AI-平台)
         - [Google AI Platform](#Google-AI-Platform)
         - [Amazon AI Platform](#Amazon-AI-Platform)
@@ -58,6 +59,10 @@
         - [涂鸦 IoT 平台](#涂鸦-IoT-平台)
         - [机智云 IoT 平台](#机智云-IoT-平台)
         - [云知声 IoT 平台](#云知声-IoT-平台)
+        - [中移动 IoT 平台](#中移动-IoT-平台)
+- [IoV](#IoV)
+    - [IoV 开放平台](#IoV-开放平台)
+        - [百度 IoV 开放平台](#百度-IoV-开放平台)
 - [AR/VR/MR](#AR/VR/MR)
     - [AR/VR/MR 开放平台](#AR/VR/MR-开放平台)
         - [百度 AR 平台](#百度-AR-平台)
@@ -156,6 +161,13 @@ DUI 开放平台官网：[https://www.dui.ai](https://www.dui.ai)
 
 猎户星空语音 OS 开放平台官网：[https://open.ainirobot.com](https://open.ainirobot.com)  
 说明：猎户星空语音 OS 主要是基于智能语音的服务。
+
+#### 出门问问 AI 平台
+
+出门问问是一家具有 Google 投资背景的公司。
+
+出门问问语音 AI 开放平台官网：[https://ai.chumenwenwen.com](https://ai.chumenwenwen.com)  
+说明：主要基于 AI 语音开放平台。
 
 #### ROOBO AI 平台
 
@@ -378,6 +390,26 @@ QQ 物联智能硬件开放平台官网：[https://iot.open.qq.com](https://iot.
 
 云知声开放平台官网：[http://dev.hivoice.cn](http://dev.hivoice.cn)  
 说明：基于云、端、芯的全方位物联网开放服务。
+
+#### 中移动 IoT 平台
+
+中国移动 IoT 平台，目前主要是 OneNET 物联网开放平台。
+
+中移动物联网开放平台官网：[https://open.iot.10086.cn](https://open.iot.10086.cn)
+
+## IoV
+
+IoV(Internet of Vehicles)，车联网。
+
+### IoV 开放平台
+
+IoV 开放平台是指具有一定能力的公司或组织，将自己的 IoV 技术以开放的形式，免费或者付费的方式，供开发者进行上层应用开发的平台。
+
+#### 百度 IoV 开放平台
+
+百度是目前为数不多的互联网第一梯队的公司在推进 IoV。
+
+百度车联网开放平台官网：[http://che.baidu.com](http://che.baidu.com)
 
 ## AR/VR/MR
 
