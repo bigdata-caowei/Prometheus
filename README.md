@@ -55,6 +55,7 @@
 - [IoT](#IoT)
     - [IoT 开放平台](#IoT-开放平台)
         - [小米 IoT 平台](#小米-IoT-平台)
+        - [阿里 IoT 平台](#阿里-IoT-平台)
         - [腾讯 IoT 平台](#腾讯-IoT-平台)
         - [京东 IoT 平台](#京东-IoT-平台)
         - [海尔 IoT 平台](#海尔-IoT-平台)
@@ -65,6 +66,7 @@
         - [云智易 IoT 平台](#云智易-IoT-平台)
     - [IoT 操作系统](#IoT-操作系统)
         - [阿里 IoT 操作系统](#阿里-IoT-操作系统)
+        - [Ubuntu IoT OS](#Ubuntu-IoT-OS)
 - [IoV](#IoV)
     - [IoV 开放平台](#IoV-开放平台)
         - [百度 IoV 开放平台](#百度-IoV-开放平台)
@@ -367,6 +369,12 @@ IoT 开放平台是指具有一定能力的公司或组织，将自己的 IoT �
 小米 IoT 开发者平台官网：[https://iot.mi.com](https://iot.mi.com)  
 说明：基于直连和云云对接嵌入小米智能模组和集成 SDK。
 
+#### 阿里 IoT 平台
+
+阿里的 IoT 平台叫阿里云 IoT，依托阿里云强大技术平台。
+
+阿里云 IoT 官网：[https://iot.aliyun.com](https://iot.aliyun.com)
+
 #### 腾讯 IoT 平台
 
 腾讯 IoT 平台目前有三个，一个是 QQ 物联智能硬件开放平台，一个是微信硬件平台，另外一个是腾讯云平台加速物联网套件 IoT Suite。
@@ -432,6 +440,13 @@ IoT 操作系统是针对于物联网的操作系统，一般和嵌入式结合�
 
 AliOS 官网：[http://www.alios.cn](http://www.alios.cn)  
 说明：AliOS 有 AliOS 和 AliOS Things，AliOS 是面向多端的物联网操作系统，而 AliOS Things 是面向 IoT 领域的轻量级物联网嵌入式操作系统。
+
+#### Ubuntu IoT OS
+
+Ubuntu 有针对于 IoT 的操作系统。
+
+Ubuntu for IoT 官网：[https://www.ubuntu.com/internet-of-things](https://www.ubuntu.com/internet-of-things)  
+说明：Ubuntu IoT 操作系统可用在智能家居、无人机、工业系统中。
 
 ## IoV
 
