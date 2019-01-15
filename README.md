@@ -75,6 +75,12 @@
 - [AR/VR/MR](#AR/VR/MR)
     - [AR/VR/MR 开放平台](#AR/VR/MR-开放平台)
         - [百度 AR 平台](#百度-AR-平台)
+- [Robot](#Robot)
+- [Blockchain](#Blockchain)
+- [UAV](#UAV)
+- [Maker](#Maker)
+- [3D Printing](#3D-Printing)
+
 
 ## AI
 
