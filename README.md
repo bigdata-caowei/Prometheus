@@ -64,8 +64,10 @@
         - [云知声 IoT 平台](#云知声-IoT-平台)
         - [中移动 IoT 平台](#中移动-IoT-平台)
         - [云智易 IoT 平台](#云智易-IoT-平台)
+        - [Google IoT Platform](#Google-IoT-Platform)
     - [IoT 操作系统](#IoT-操作系统)
         - [阿里 IoT 操作系统](#阿里-IoT-操作系统)
+        - [RT-Thread IoT 操作系统](#RT-Thread-IoT-操作系统)
         - [Ubuntu IoT OS](#Ubuntu-IoT-OS)
 - [IoV](#IoV)
     - [IoV 开放平台](#IoV-开放平台)
@@ -430,6 +432,12 @@ QQ 物联智能硬件开放平台官网：[https://iot.open.qq.com](https://iot.
 
 云智易物联网云平台官网：[http://www.xlink.cn](http://www.xlink.cn)
 
+#### Google IoT Platform
+
+Google 有 IoT 的操作系统和平台。
+
+Google IoT 平台官网：[https://developers.google.com/iot](https://developers.google.com/iot)
+
 ### IoT 操作系统
 
 IoT 操作系统是针对于物联网的操作系统，一般和嵌入式结合较为紧密。
@@ -440,6 +448,12 @@ IoT 操作系统是针对于物联网的操作系统，一般和嵌入式结合�
 
 AliOS 官网：[http://www.alios.cn](http://www.alios.cn)  
 说明：AliOS 有 AliOS 和 AliOS Things，AliOS 是面向多端的物联网操作系统，而 AliOS Things 是面向 IoT 领域的轻量级物联网嵌入式操作系统。
+
+#### RT-Thread IoT 操作系统
+
+RT-Thread是一个集实时操作系统（RTOS）内核、中间件组件和开发者社区于一体的技术平台，由熊谱翔先生带领并集合开源社区力量开发而成，RT-Thread也是一个组件完整丰富、高度可伸缩、简易开发、超低功耗、高安全性的物联网操作系统。
+
+RT-Thread IoT 操作系统官网：[https://www.rt-thread.org](https://www.rt-thread.org)
 
 #### Ubuntu IoT OS
 
