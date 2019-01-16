@@ -69,6 +69,10 @@
         - [阿里 IoT 操作系统](#阿里-IoT-操作系统)
         - [RT-Thread IoT 操作系统](#RT-Thread-IoT-操作系统)
         - [Ubuntu IoT OS](#Ubuntu-IoT-OS)
+    - [IoT SDK](#IoT-SDK)
+        - [Google IoT SDK](#Google-IoT-SDK)
+        - [Apple IoT SDK](#Apple-IoT-SDK)
+
 - [IoV](#IoV)
     - [IoV 开放平台](#IoV-开放平台)
         - [百度 IoV 开放平台](#百度-IoV-开放平台)
@@ -468,6 +472,16 @@ Ubuntu 有针对于 IoT 的操作系统。
 
 Ubuntu for IoT 官网：[https://www.ubuntu.com/internet-of-things](https://www.ubuntu.com/internet-of-things)  
 说明：Ubuntu IoT 操作系统可用在智能家居、无人机、工业系统中。
+
+### IoT SDK
+
+#### Google IoT SDK
+
+Android Things 官网：[https://developer.android.com/things](https://developer.android.com/things)
+
+#### Apple IoT SDK
+
+HomeKit SDK 官网：[https://developer.apple.com/homekit](https://developer.apple.com/homekit)
 
 ## IoV
 
