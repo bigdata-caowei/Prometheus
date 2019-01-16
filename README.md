@@ -52,6 +52,9 @@
         - [Apple Siri](#Apple-Siri)
         - [Microsoft Cortana](#Microsoft-Cortana)
         - [Google Assistant](#Google-Assistant)
+    - [智能音箱](#智能音箱)
+        - [百度智能音箱](#百度智能音箱)
+        - [阿里智能音箱](#阿里智能音箱)
 - [IoT](#IoT)
     - [IoT 开放平台](#IoT-开放平台)
         - [小米 IoT 平台](#小米-IoT-平台)
@@ -366,6 +369,21 @@ Google 的语音助手目前还没有一个统一的名字。目前就叫 Google
 
 Google Assistant 官网：[https://assistant.google.com](https://assistant.google.com)
 
+### 智能音箱
+
+#### 百度智能音箱
+
+百度智能音箱目前有不带屏的小度智能音箱和小度智能音箱 Pro，带屏的有小度在家。
+
+小度智能音箱：[https://dumall.baidu.com/speaker1](https://dumall.baidu.com/speaker1)  
+小度智能音箱 Pro：[https://dumall.baidu.com/speaker-pro](https://dumall.baidu.com/speaker-pro)  
+小度在家：[https://dumall.baidu.com/zaijia](https://dumall.baidu.com/zaijia)
+
+#### 阿里智能音箱
+
+阿里智能音箱是天猫精灵。
+
+天猫精灵：[https://bot.tmall.com](https://bot.tmall.com)
 
 ## IoT
 
