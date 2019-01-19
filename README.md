@@ -57,6 +57,8 @@
         - [百度智能音箱](#百度智能音箱)
         - [阿里智能音箱](#阿里智能音箱)
         - [小米智能音箱](#小米智能音箱)
+        - [腾讯智能音箱](#腾讯智能音箱)
+        - [喜马拉雅智能音箱](#喜马拉雅智能音箱)
 - [IoT](#IoT)
     - [IoT 开放平台](#IoT-开放平台)
         - [小米 IoT 平台](#小米-IoT-平台)
@@ -384,15 +386,15 @@ Google Assistant 官网：[https://assistant.google.com](https://assistant.googl
 
 百度智能音箱目前有不带屏的小度智能音箱和小度智能音箱 Pro，带屏的有小度在家。
 
-小度智能音箱：[https://dumall.baidu.com/speaker1](https://dumall.baidu.com/speaker1)  
-小度智能音箱 Pro：[https://dumall.baidu.com/speaker-pro](https://dumall.baidu.com/speaker-pro)  
-小度在家：[https://dumall.baidu.com/zaijia](https://dumall.baidu.com/zaijia)
+* 小度智能音箱：[https://dumall.baidu.com/speaker1](https://dumall.baidu.com/speaker1)  
+* 小度智能音箱 Pro：[https://dumall.baidu.com/speaker-pro](https://dumall.baidu.com/speaker-pro)  
+* 小度在家：[https://dumall.baidu.com/zaijia](https://dumall.baidu.com/zaijia)
 
 #### 阿里智能音箱
 
 阿里智能音箱是天猫精灵。
 
-天猫精灵：[https://bot.tmall.com](https://bot.tmall.com)
+* 天猫精灵：[https://bot.tmall.com](https://bot.tmall.com)
 
 #### 小米智能音箱
 
@@ -401,6 +403,23 @@ Google Assistant 官网：[https://assistant.google.com](https://assistant.googl
 * 小米 AI 音箱：[https://www.mi.com/aispeaker](https://www.mi.com/aispeaker)
 * 小米小爱音箱 mini：[https://item.mi.com/product/7832.html](https://item.mi.com/product/7832.html)  
 * 小米小爱音箱 HD：[https://item.mi.com/product/9151.html](https://item.mi.com/product/9151.html)
+
+#### 腾讯智能音箱
+
+腾讯旗下目前有腾讯听听智能音箱及带屏智能音箱。
+
+* 腾讯听听音箱：[https://tingting.qq.com](https://tingting.qq.com)
+* 腾讯带屏智能音箱：[https://dingdang.qq.com/dingdang_speaker.html](https://dingdang.qq.com/dingdang_speaker.html)
+
+#### 喜马拉雅智能音箱
+
+喜马拉雅的智能音箱名叫小雅。
+
+* 小雅智能音箱：[https://item.jd.com/4524363.html](https://item.jd.com/4524363.html)
+* 小雅 Mini 智能音箱：[https://item.jd.com/100000203768.html](https://item.jd.com/100000203768.html)
+* 小雅 Nano 智能音箱：[https://item.jd.com/100002702134.html](https://item.jd.com/100002702134.html)
+
+
 
 ## IoT
 
