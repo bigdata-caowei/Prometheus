@@ -59,6 +59,7 @@
         - [小米智能音箱](#小米智能音箱)
         - [腾讯智能音箱](#腾讯智能音箱)
         - [喜马拉雅智能音箱](#喜马拉雅智能音箱)
+        - [Google 智能音箱](#Google-智能音箱)
 - [IoT](#IoT)
     - [IoT 开放平台](#IoT-开放平台)
         - [小米 IoT 平台](#小米-IoT-平台)
@@ -419,7 +420,12 @@ Google Assistant 官网：[https://assistant.google.com](https://assistant.googl
 * 小雅 Mini 智能音箱：[https://item.jd.com/100000203768.html](https://item.jd.com/100000203768.html)
 * 小雅 Nano 智能音箱：[https://item.jd.com/100002702134.html](https://item.jd.com/100002702134.html)
 
+#### Google 智能音箱
 
+Google 智能音箱叫 Google Home，还有与其他厂商合作的带屏音箱叫 Smart Display。
+
+Google Home 官网：[https://store.google.com/product/google_home](https://store.google.com/product/google_home)  
+Google Smart Display 官网：[https://assistant.google.com/platforms/displays](https://assistant.google.com/platforms/displays)
 
 ## IoT
 
