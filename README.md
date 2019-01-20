@@ -60,6 +60,9 @@
         - [腾讯智能音箱](#腾讯智能音箱)
         - [喜马拉雅智能音箱](#喜马拉雅智能音箱)
         - [Google 智能音箱](#Google-智能音箱)
+        - [Amazon 智能音箱](#Amazon-智能音箱)
+        - [Apple 智能音箱](#Apple-智能音箱)
+        - [SONOS 智能音箱](#SONOS-智能音箱)
 - [IoT](#IoT)
     - [IoT 开放平台](#IoT-开放平台)
         - [小米 IoT 平台](#小米-IoT-平台)
@@ -424,8 +427,29 @@ Google Assistant 官网：[https://assistant.google.com](https://assistant.googl
 
 Google 智能音箱叫 Google Home，还有与其他厂商合作的带屏音箱叫 Smart Display。
 
-Google Home 官网：[https://store.google.com/product/google_home](https://store.google.com/product/google_home)  
-Google Smart Display 官网：[https://assistant.google.com/platforms/displays](https://assistant.google.com/platforms/displays)
+* Google Home 官网：[https://store.google.com/product/google_home](https://store.google.com/product/google_home)  
+* Google Smart Display 官网：[https://assistant.google.com/platforms/displays](https://assistant.google.com/platforms/displays)
+
+#### Amazon 智能音箱
+
+Amazon 智能音箱有 Amazon Echo 系列 和带屏的 Amazon Echo Show。官网：[https://www.amazon.com](https://www.amazon.com/b/?ie=UTF8&node=9818047011&ref_=fs_ods_fs_aucc_cp)
+
+* Echo
+* Echo Dot
+* Echo Dot Kids Edition
+* Echo Plus
+* Echo Spot
+* Echo Show
+
+#### Apple 智能音箱
+
+Apple 智能音箱目前只有一款，叫 Apple HomePod。
+
+* HomePod 官网：[https://www.apple.com/homepod](https://www.apple.com/homepod)
+
+#### SONOS 智能音箱
+
+* SONOS 智能音箱官网：[https://www.sonos.com](https://www.sonos.com)
 
 ## IoT
 
