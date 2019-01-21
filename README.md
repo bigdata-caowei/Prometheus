@@ -63,6 +63,8 @@
         - [Amazon 智能音箱](#Amazon-智能音箱)
         - [Apple 智能音箱](#Apple-智能音箱)
         - [SONOS 智能音箱](#SONOS-智能音箱)
+        - [Yandex 智能音箱](#Yandex-智能音箱)
+        - [Libratone 智能音箱](#Libratone-智能音箱)
 - [IoT](#IoT)
     - [IoT 开放平台](#IoT-开放平台)
         - [小米 IoT 平台](#小米-IoT-平台)
@@ -450,6 +452,18 @@ Apple 智能音箱目前只有一款，叫 Apple HomePod。
 #### SONOS 智能音箱
 
 * SONOS 智能音箱官网：[https://www.sonos.com](https://www.sonos.com)
+
+#### Yandex 智能音箱
+
+Yandex 是俄罗斯第一大搜索引擎，也出了智能音箱，名字是 Yandex Station。
+
+* Yandex Station 智能音箱官网：[https://station.yandex.ru](https://station.yandex.ru)
+
+#### Libratone 智能音箱
+
+Libratone 中文名叫小鸟，最近很火的智能音箱产品，产品设计的也比较有气质。
+
+Libratione 官网：[http://www.libratone.com.cn](http://www.libratone.com.cn)
 
 ## IoT
 
