@@ -65,6 +65,8 @@
         - [SONOS 智能音箱](#SONOS-智能音箱)
         - [Yandex 智能音箱](#Yandex-智能音箱)
         - [Libratone 智能音箱](#Libratone-智能音箱)
+    - [智能灯泡](#智能灯泡)
+        - [飞利浦智能灯泡](#飞利浦智能灯泡)
 - [IoT](#IoT)
     - [IoT 开放平台](#IoT-开放平台)
         - [小米 IoT 平台](#小米-IoT-平台)
@@ -464,6 +466,32 @@ Yandex 是俄罗斯第一大搜索引擎，也出了智能音箱，名字是 Yan
 Libratone 中文名叫小鸟，最近很火的智能音箱产品，产品设计的也比较有气质。
 
 Libratione 官网：[http://www.libratone.com.cn](http://www.libratone.com.cn)
+
+
+### 智能手表
+
+#### Apple 智能手表
+
+Apple 智能手表叫 Apple Watch，现在已经出了第四代，第四代能够独立联网，可带 SIM 卡。
+
+Apple Watch 官网：[https://www.apple.com/watch](https://www.apple.com/watch)
+
+#### Google 智能手表
+
+Google 智能手表系统叫 Wear OS，目前搭载此系统的产品有 Moto 360。
+
+Google Wear OS:[https://wearos.google.com](https://wearos.google.com)
+
+### 智能灯泡
+
+#### 飞利浦智能灯泡
+
+飞利浦智能灯泡叫 HUE。
+
+飞利浦 HUE 官网：[https://www.meethue.com](https://www.meethue.com)
+
+
+
 
 ## IoT
 
