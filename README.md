@@ -84,6 +84,7 @@
         - [云知声 IoT 平台](#云知声-IoT-平台)
         - [中移动 IoT 平台](#中移动-IoT-平台)
         - [云智易 IoT 平台](#云智易-IoT-平台)
+        - [Broadlink IoT 平台](#Broadlink-IoT-平台)
         - [Google IoT Platform](#Google-IoT-Platform)
     - [IoT 操作系统](#IoT-操作系统)
         - [阿里 IoT 操作系统](#阿里-IoT-操作系统)
@@ -579,6 +580,12 @@ QQ 物联智能硬件开放平台官网：[https://iot.open.qq.com](https://iot.
 云智易 IoT 平台是属于广州云智易物联网有限公司旗下品牌。
 
 云智易物联网云平台官网：[http://www.xlink.cn](http://www.xlink.cn)
+
+#### Broadlink IoT 平台
+
+Broadlink 属于杭州古北电子科技有限公司。
+
+Broadlink 官网：[www.broadlink.com.cn](www.broadlink.com.c)
 
 #### Google IoT Platform
 
