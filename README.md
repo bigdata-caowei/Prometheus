@@ -70,6 +70,8 @@
         - [Google 智能手表](#Google-智能手表)
     - [智能灯泡](#智能灯泡)
         - [飞利浦智能灯泡](#飞利浦智能灯泡)
+    - [智能眼镜](#智能眼镜)
+        - [Google 智能眼镜](#Google-智能眼镜)
 - [IoT](#IoT)
     - [IoT 开放平台](#IoT-开放平台)
         - [小米 IoT 平台](#小米-IoT-平台)
@@ -493,7 +495,13 @@ Google Wear OS:[https://wearos.google.com](https://wearos.google.com)
 
 飞利浦 HUE 官网：[https://www.meethue.com](https://www.meethue.com)
 
+### 智能眼镜
 
+#### Google 智能眼镜
+
+Google 智能眼镜叫 Google Glass。
+
+Google Glass 官网：[https://www.x.company/glass](https://www.x.company/glass)
 
 
 ## IoT
