@@ -102,6 +102,7 @@
 - [AR/VR/MR](#AR/VR/MR)
     - [AR/VR/MR 开放平台](#AR/VR/MR-开放平台)
         - [百度 AR 平台](#百度-AR-平台)
+        - [腾讯 AR 平台](#腾讯-AR-平台)
 - [Robot](#Robot)
     - [Robot 开放平台](#Robot-开放平台)
 - [Blockchain](#Blockchain)
@@ -664,6 +665,12 @@ AR/VR/MR 开放平台是指具有一定能力的公司或组织，将自己的 A
 百度 Dumix AR 开放平台官网：[https://ar.baidu.com/platform](https://ar.baidu.com/platform)  
 说明：基础的技术 SDK 及平台。  
 
+#### 腾讯 AR 平台
+
+腾讯 AR 平台叫 TAR。
+
+腾讯 TAR 开放平台官网：[https://tar.qq.com](https://tar.qq.com)
+
 ## Robot
 
 ### Robot 开放平台
@@ -681,6 +688,12 @@ AR/VR/MR 开放平台是指具有一定能力的公司或组织，将自己的 A
 XAIN offers a universal access-control protocol for machine networks in the mobility sector.
 
 XAIN 官网：[https://xain.io](https://xain.io)      
+
+## UAV
+
+## Maker
+
+## 3D Printing
 
 
 
