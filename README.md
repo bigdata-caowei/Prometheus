@@ -101,6 +101,8 @@
         - [百度 IoV 开放平台](#百度-IoV-开放平台)
     - [IoV 解决方案](#IoV-解决方案)
         - [斑马智行 IoV 解决方案](#斑马智行-IoV-解决方案)
+    - [IoV 开源自动驾驶系统](#IoV-开源自动驾驶系统)
+        - [openpilot 开源自动驾驶系统](#openpilot-开源自动驾驶系统)
     - [Self-driving Car](#Self-driving-Car)
         - [仙途无人车](#仙途无人车)
 - [AR/VR/MR](#AR/VR/MR)
@@ -661,6 +663,14 @@ IoV 开放平台是指具有一定能力的公司或组织，将自己的 IoV �
 斑马智行 IoV 解决方案基于AliOS的斑马智行互联网汽车整体解决方案。
 
 斑马智行官网：[http://www.ebanma.com](http://www.ebanma.com)
+
+### IoV 开源自动驾驶系统
+
+#### openpilot 开源自动驾驶系统
+
+openpilot 属于大神 George Hotz 的 comma.ai 公司出品的开源自动驾驶系统。
+
+openpilot 开源地址：[https://github.com/commaai/openpilot](https://github.com/commaai/openpilot)
 
 ### Self-driving Car
 
