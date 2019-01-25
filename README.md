@@ -36,6 +36,8 @@
         - [腾讯 AI Lab](#腾讯-AI-Lab)
         - [滴滴 AI Lab](#滴滴-AI-Lab)
         - [Intel AI Academy](#Intel-AI-Academy)
+    - [AI 系统](#AI-系统)
+        - [百度 AI 系统](#百度-AI-系统)
     - [AI 公司](#AI-公司)
         - [DeepMind](#DeepMind)
         - [X.AI](#X.AI)
@@ -97,6 +99,8 @@
 - [IoV](#IoV)
     - [IoV 开放平台](#IoV-开放平台)
         - [百度 IoV 开放平台](#百度-IoV-开放平台)
+    - [IoV 解决方案](#IoV-解决方案)
+        - [斑马智行 IoV 解决方案](#斑马智行-IoV-解决方案)
     - [Self-driving Car](#Self-driving-Car)
         - [仙途无人车](#仙途无人车)
 - [AR/VR/MR](#AR/VR/MR)
@@ -289,6 +293,14 @@ AI Lab 主要是基于底层的学术研究与技术架构，连同上层应用�
 因特尔目前有 AI 学院。
 
 Intel AI Academy 官网：[https://software.intel.com/en-us/ai-academy](https://software.intel.com/en-us/ai-academy)
+
+### AI 系统
+
+#### 百度 AI 系统
+
+百度的 AI 系统叫 DuerOS。
+
+DuerOS 官网：[https://dueros.baidu.com](https://dueros.baidu.com)
 
 ### AI 公司
 
@@ -641,6 +653,14 @@ IoV 开放平台是指具有一定能力的公司或组织，将自己的 IoV �
 百度是目前为数不多的互联网第一梯队的公司在推进 IoV。
 
 百度车联网开放平台官网：[http://che.baidu.com](http://che.baidu.com)
+
+### IoV 解决方案
+
+#### 斑马智行 IoV 解决方案
+
+斑马智行 IoV 解决方案基于AliOS的斑马智行互联网汽车整体解决方案。
+
+斑马智行官网：[http://www.ebanma.com](http://www.ebanma.com)
 
 ### Self-driving Car
 
