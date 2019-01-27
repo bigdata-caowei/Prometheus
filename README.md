@@ -109,6 +109,8 @@
     - [AR/VR/MR 开放平台](#AR/VR/MR-开放平台)
         - [百度 AR 平台](#百度-AR-平台)
         - [腾讯 AR 平台](#腾讯-AR-平台)
+    - [AR/VR/MR 设备](#AR/VR/MR-设备)
+        - [HTC AR/VR/MR 设备](#HTC-AR/VR/MR-设备) 
 - [Robot](#Robot)
     - [Robot 开放平台](#Robot-开放平台)
 - [Blockchain](#Blockchain)
@@ -700,6 +702,14 @@ AR/VR/MR 开放平台是指具有一定能力的公司或组织，将自己的 A
 腾讯 AR 平台叫 TAR。
 
 腾讯 TAR 开放平台官网：[https://tar.qq.com](https://tar.qq.com)
+
+### AR/VR/MR 设备
+
+#### HTC AR/VR/MR 设备
+
+HTC 目前有 VIVE 这款设备。
+
+HTC VIVE 官网：[https://www.vive.com](https://www.vive.com)
 
 ## Robot
 
