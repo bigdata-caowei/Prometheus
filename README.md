@@ -46,6 +46,8 @@
         - [李开复](#李开复)
         - [李飞飞](#李飞飞)
         - [吴恩达](#吴恩达)
+    - [Machine Learning](#Machine-Learning)
+        - [Google ML](#Google-ML)
     - [语音助手](#语音助手)
         - [小米小爱同学](#小米小爱同学)
         - [华为 HiAssistant](#华为-HiAssistant)
@@ -330,6 +332,14 @@ LANDING.AI 公司是由吴恩达创办的将 AI 服务于传统制造行业。
 
 X.AI 官网：[https://x.ai](https://x.ai)  
 说明：LANDING.AI 将会通过 AI 提供传统制造的产品质量、良率、生产效率等。
+
+### Machine Learning
+
+#### Google ML
+
+Google Cloud ML。
+
+Cloud AutoML - Custom Machine Learning Models：[https://cloud.google.com/automl](https://cloud.google.com/automl)
 
 ### AI 人物
 
