@@ -76,6 +76,9 @@
         - [飞利浦智能灯泡](#飞利浦智能灯泡)
     - [智能眼镜](#智能眼镜)
         - [Google 智能眼镜](#Google-智能眼镜)
+    - [智能门锁](#智能门锁)
+        - [优点智能门锁](#优点智能门锁)
+        - [云丁智能门锁](#云丁智能门锁)
 - [IoT](#IoT)
     - [IoT 开放平台](#IoT-开放平台)
         - [小米 IoT 平台](#小米-IoT-平台)
@@ -533,6 +536,19 @@ Google 智能眼镜叫 Google Glass。
 
 Google Glass 官网：[https://www.x.company/glass](https://www.x.company/glass)
 
+### 智能门锁
+
+#### 优点智能门锁
+
+深圳市优点科技有限公司是一家专注于智能门锁及安防领域的物联网服务平台。
+
+优点智能门锁官网：[http://www.youdianhome.com](http://www.youdianhome.com)
+
+#### 云丁智能门锁
+
+云丁网络技术（北京）有限公司,产品主要围绕家居智能安全展开，旗下拥有Loock.鹿客、云丁两大品牌，分别针对家用市场和公寓市场。
+
+云丁智能门锁官网：[http://www.yunding.cn](http://www.yunding.cn)
 
 ## IoT
 
