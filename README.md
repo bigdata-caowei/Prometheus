@@ -87,6 +87,7 @@
         - [京东 IoT 平台](#京东-IoT-平台)
         - [海尔 IoT 平台](#海尔-IoT-平台)
         - [涂鸦 IoT 平台](#涂鸦-IoT-平台)
+        - [萤石 IoT 平台](#萤石-IoT-平台)
         - [机智云 IoT 平台](#机智云-IoT-平台)
         - [云知声 IoT 平台](#云知声-IoT-平台)
         - [中移动 IoT 平台](#中移动-IoT-平台)
@@ -599,6 +600,16 @@ QQ 物联智能硬件开放平台官网：[https://iot.open.qq.com](https://iot.
 
 涂鸦智能平台官网：[https://www.tuya.com](https://www.tuya.com)  
 说明：全球化智能电器、电工、照明服务。
+
+#### 萤石 IoT 平台
+
+萤石 IoT 平台。
+
+萤石 IoT 平台具有各种相关技术，并不仅限于 IoT 平台。
+
+萤石 IoT 平台官网：[https://open.ys7.com](https://open.ys7.com)
+
+
 
 #### 机智云 IoT 平台
 
