@@ -127,7 +127,8 @@
     - [创客平台](#创客平台)
         - [MakeBlock 创客平台](#MakeBlock-创客平台) 
 - [3D Printing](#3D-Printing)
-
+    - [3D-Printing-Machine](#3D-Printing-Machine)
+        - [SnapMaker](#SnapMaker) 
 
 ## AI
 
