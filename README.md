@@ -123,9 +123,16 @@
 - [Blockchain](#Blockchain)
     - [控制协议](#控制协议)
 - [UAV](#UAV)
+    - [UAV 公司](#UAV-公司)
+        - [大疆](#大疆) 
+        - [亿航](#亿航)
+        - [零度](#零度)
+        - [普宙](#普宙)
 - [Maker](#Maker)
     - [创客平台](#创客平台)
         - [MakeBlock 创客平台](#MakeBlock-创客平台) 
+    - [Party](#Party)
+        - [MakerFaire](#MakerFaire) 
 - [3D Printing](#3D-Printing)
     - [3D-Printing-Machine](#3D-Printing-Machine)
         - [SnapMaker](#SnapMaker) 
@@ -778,6 +785,32 @@ XAIN 官网：[https://xain.io](https://xain.io)
 
 ## UAV
 
+### UAV 公司
+
+#### 大疆
+
+大疆无人机在普通消费市场占全球 70% 左右的份额。
+
+大疆官网：[https://www.dji.com](https://www.dji.com)
+
+#### 亿航
+
+亿航智能为各个行业领域客户提供简易、智能、安全、高效的飞行器产品和解决方案，包括自动驾驶飞行器、智慧城市指挥调度中心、行业应用网联无人机、无人机自动化集群编队、无人机物流配送等。
+
+亿航官网：[http://www.ehang.com](http://www.ehang.com)
+
+#### 零度
+
+零度智控（北京）智能科技有限公司，成立于 2007 年，致力于成为全球顶尖的智能飞行器产品和智能无人机整体解决方案供应商。
+
+零度官网：[https://www.zerotech.com](https://www.zerotech.com)
+
+#### 普宙
+
+普宙飞行器科技(深圳)有限公司（GDU）是一家专注于研发，生产和销售无人机的高科技企业。总部位于深圳，研发中心设在武汉。
+
+普宙官网：[http://www.gdu-tech.com](http://www.gdu-tech.com)
+
 ## Maker
 
 ### 创客平台
@@ -787,6 +820,14 @@ XAIN 官网：[https://xain.io](https://xain.io)
 MakeBlock 创客平台。
 
 MakeBlock 官网：[https://www.makeblock.com](https://www.makeblock.com)
+
+### Party
+
+#### MakerFaire
+
+MakerFaire 美国 Make 杂志社举办的全世界最大的 DIY 聚会，是一个展示创意、创新与创造的舞台，一个宣扬创客（Maker)文化的庆典。
+
+MakerFaire 官网：[https://makerfaire.com](https://makerfaire.com)
 
 ## 3D Printing
 
