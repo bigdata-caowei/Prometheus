@@ -126,6 +126,8 @@
         - [蚂蚁矿池](#蚂蚁矿池) 
         - [莱比特矿池](#莱比特矿池)
         - [BTC 矿池](#BTC-矿池)
+        - [ViaBTC 矿池](#ViaBTC-矿池)
+        - [SlushPool 矿池](#SlushPool-矿池)
 - [UAV](#UAV)
     - [UAV 公司](#UAV-公司)
         - [大疆](#大疆) 
@@ -800,6 +802,14 @@ XAIN 官网：[https://xain.io](https://xain.io)
 #### BTC 矿池
 
 BTC 矿池官网：[https://btc.com](https://btc.com)
+
+#### ViaBTC 矿池
+
+ViaBTC 矿池官网：[https://www.viabtc.com](https://www.viabtc.com)
+
+#### SlushPool 矿池
+
+SlushPool 矿池官网：[https://slushpool.com](https://slushpool.com)
 
 ## UAV
 
