@@ -124,6 +124,8 @@
     - [控制协议](#控制协议)
     - [矿池](#矿池)
         - [蚂蚁矿池](#蚂蚁矿池) 
+        - [莱比特矿池](#莱比特矿池)
+        - [BTC 矿池](#BTC-矿池)
 - [UAV](#UAV)
     - [UAV 公司](#UAV-公司)
         - [大疆](#大疆) 
@@ -791,6 +793,13 @@ XAIN 官网：[https://xain.io](https://xain.io)
 
 蚂蚁矿池官网：[https://www.antpool.com](https://www.antpool.com)
 
+#### 莱比特币矿池
+
+莱比特币矿池官网：[https://www.btc.top](https://www.btc.top)
+
+#### BTC 矿池
+
+BTC 矿池官网：[https://btc.com](https://btc.com)
 
 ## UAV
 
