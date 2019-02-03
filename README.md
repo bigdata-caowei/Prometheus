@@ -39,6 +39,9 @@
     - [AI 系统](#AI-系统)
         - [百度 AI 系统](#百度-AI-系统)
     - [AI 公司](#AI-公司)
+        - [大象声科](#大象声科)
+        - [竹间智能](#竹间智能)
+        - [Solvvy](#Solvvy)
         - [DeepMind](#DeepMind)
         - [X.AI](#X.AI)
         - [LANDING.AI](#LANDING.AI)
@@ -330,6 +333,24 @@ Intel AI Academy 官网：[https://software.intel.com/en-us/ai-academy](https://
 DuerOS 官网：[https://dueros.baidu.com](https://dueros.baidu.com)
 
 ### AI 公司
+
+#### 大象声科
+
+大象声科技术团队基于多年对语音技术的研究，应用前沿的深度学习技术，自主研发了多项核心的声学算法，致力于为客户提供前沿的语音增强和智能语音交互解决方案。
+
+大象声科官网：[https://www.elevoc.com](https://www.elevoc.com)
+
+#### 竹间智能
+
+竹间智能致力于将电影 Her（《她》）中所描绘的，那个具有丰富情感，能读懂、看懂、听懂、有记忆的人工智能带入现实世界。
+
+竹间智能官网：[http://www.emotibot.com](http://www.emotibot.com)
+
+#### Solvvy
+
+Solvvy 是一个客户服务对话智能平台。
+
+Solvvy 官网：[https://solvvy.com](https://solvvy.com)
 
 #### DeepMind
 
