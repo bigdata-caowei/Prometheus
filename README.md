@@ -44,6 +44,8 @@
         - [第四范式](#第四范式)
         - [虹软](#虹软)
         - [声智](#声智)
+        - [H2O](#H2O)
+        - [Accompany](#Accompany)
         - [Solvvy](#Solvvy)
         - [DeepMind](#DeepMind)
         - [X.AI](#X.AI)
@@ -366,6 +368,14 @@ DuerOS 官网：[https://dueros.baidu.com](https://dueros.baidu.com)
 声智科技成立于 2016 年 4 月，是全球领先的声学前沿技术和人工智能服务的科技创新公司之一，专注于声学语音技术和远场智能交互，致力于通过不断引领真实环境下的人机交互体验，实现“用声音让生活更智能”的使命，达成未来“更自由的人机互联”的愿景。
 
 声智官网：[http://www.soundai.com](http://www.soundai.com)
+
+#### H2O
+
+H2O 官网：[https://www.h2o.ai](https://www.h2o.ai)
+
+#### Accompany
+
+Accompany 官网：[https://www.accompany.com](https://www.accompany.com)
 
 #### Solvvy
 
