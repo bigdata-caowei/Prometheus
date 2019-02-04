@@ -135,6 +135,7 @@
         - [莱比特矿池](#莱比特矿池)
         - [BTC 矿池](#BTC-矿池)
         - [ViaBTC 矿池](#ViaBTC-矿池)
+        - [F2Pool 矿池](#F2Pool-矿池)
         - [SlushPool 矿池](#SlushPool-矿池)
 - [UAV](#UAV)
     - [UAV 公司](#UAV-公司)
@@ -858,6 +859,10 @@ BTC 矿池官网：[https://btc.com](https://btc.com)
 #### ViaBTC 矿池
 
 ViaBTC 矿池官网：[https://www.viabtc.com](https://www.viabtc.com)
+
+#### F2Pool 矿池
+
+F2Pool 矿池官网：[https://www.f2pool.com](https://www.f2pool.com)
 
 #### SlushPool 矿池
 
