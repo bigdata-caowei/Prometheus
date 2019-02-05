@@ -110,6 +110,9 @@
     - [IoT SDK](#IoT-SDK)
         - [Google IoT SDK](#Google-IoT-SDK)
         - [Apple IoT SDK](#Apple-IoT-SDK)
+    - [IoT 公司](#IoT-公司)
+        - [普玄物联](#普玄物联)
+        - [鎏云物联](#鎏云物联)
 
 - [IoV](#IoV)
     - [IoV 开放平台](#IoV-开放平台)
@@ -756,6 +759,23 @@ Android Things 官网：[https://developer.android.com/things](https://developer
 #### Apple IoT SDK
 
 HomeKit SDK 官网：[https://developer.apple.com/homekit](https://developer.apple.com/homekit)
+
+### IoT 公司
+
+#### 普玄物联
+
+普玄物联是一家专业物联网位置服务提供商。
+
+普玄物联官网：[http://www.nbiot.com.cn](http://www.nbiot.com.cn)
+
+#### 鎏云物联
+
+深圳鎏信科技有限公司是国内领先的物联网智慧连接技术服务商，公司在物联网通信、网络、安全等技术领域具有深刻的行业沉淀与理解，专注于物联网可靠连接、无感连接、泛在连接技术的研发，与服务能力的平台化提供，致力保障物联网设备的任何时间、任何地点、任何方式的数据交互要求，为客户提供卓越的智慧连接管理体验，为数据保驾护航。
+
+鎏云物联官网：[http://www.cmpyun.com](http://www.cmpyun.com)
+
+
+#### 
 
 ## IoV
 
