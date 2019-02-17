@@ -146,6 +146,8 @@
         - [ViaBTC 矿池](#ViaBTC-矿池)
         - [F2Pool 矿池](#F2Pool-矿池)
         - [SlushPool 矿池](#SlushPool-矿池)
+    - [矿机](#矿机)
+        - [比特大陆](#比特大陆) 
 - [UAV](#UAV)
     - [UAV 公司](#UAV-公司)
         - [大疆](#大疆) 
@@ -921,6 +923,12 @@ F2Pool 矿池官网：[https://www.f2pool.com](https://www.f2pool.com)
 #### SlushPool 矿池
 
 SlushPool 矿池官网：[https://slushpool.com](https://slushpool.com)
+
+### 矿机
+
+#### 比特大陆
+
+比特大陆官网：[https://www.bitmain.com](https://www.bitmain.com)
 
 ## UAV
 
