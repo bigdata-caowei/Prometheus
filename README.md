@@ -109,6 +109,7 @@
         - [Ubuntu IoT OS](#Ubuntu-IoT-OS)
         - [Raspberry Pi](#Raspberry-Pi)
         - [Arduino](#Arduino)
+        - [Fuchsia](#Fuchsia)
     - [IoT SDK](#IoT-SDK)
         - [Google IoT SDK](#Google-IoT-SDK)
         - [Apple IoT SDK](#Apple-IoT-SDK)
@@ -767,6 +768,10 @@ Raspberry Pi 官网：[https://www.raspberrypi.org](https://www.raspberrypi.org)
 #### Arduino
 
 Arduino 官网：[https://www.arduino.cc](https://www.arduino.cc)
+
+#### Fuchsia
+
+Fuchsia 官网：[https://github.com/fuchsia-mirror](https://github.com/fuchsia-mirror)
 
 ### IoT SDK
 
