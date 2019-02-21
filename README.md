@@ -122,14 +122,17 @@
     - [IoV 解决方案](#IoV-解决方案)
         - [斑马智行 IoV 解决方案](#斑马智行-IoV-解决方案)
     - [IoV 智能驾驶系统](#IoV-智能驾驶系统)
-        - [咚咚](#咚咚)
         - [openpilot](#openpilot)
         - [Apollo](#Apollo)
-        - [咚咚](#咚咚)
+        - [Momenta](#Momenta)
+        - [Zoox](#Zoox)
     - [智能汽车](#智能汽车)
         - [特斯拉](#特斯拉) 
         - [仙途](#仙途)
         - [BYTON](#BYTON)
+    - [智能车载系统](#智能车载系统)
+        - [咚咚](#咚咚)
+        - [AutoBot](#AutoBot) 
 - [AR/VR/MR](#AR/VR/MR)
     - [AR/VR/MR 开放平台](#AR/VR/MR-开放平台)
         - [百度 AR 平台](#百度-AR-平台)
@@ -826,10 +829,6 @@ IoV 开放平台是指具有一定能力的公司或组织，将自己的 IoV �
 
 ### IoV 智能驾驶系统
 
-#### 咚咚
-
-咚咚驾驶官网：[http://www.dongdong.ai](http://www.dongdong.ai)
-
 #### openpilot
 
 openpilot 属于大神 George Hotz 的 comma.ai 公司出品的开源自动驾驶系统。
@@ -841,6 +840,14 @@ openpilot 开源地址：[https://github.com/commaai/openpilot](https://github.c
 Apollo 属于百度的无人驾驶系统。
 
 Apollo 官网：[http://apollo.auto](http://apollo.auto)
+
+#### Momenta
+
+Momenta 官网：[https://www.momenta.cn](https://www.momenta.cn)
+
+#### Zoox
+
+Zoox 官网：[http://zoox.com](http://zoox.com) 
 
 ### 智能汽车
 
@@ -857,6 +864,16 @@ Apollo 官网：[http://apollo.auto](http://apollo.auto)
 #### BYTON
 
 BYTON 官网：[https://www.byton.com](https://www.byton.com)
+
+### 智能车载系统
+
+#### 咚咚
+
+咚咚驾驶官网：[http://www.dongdong.ai](http://www.dongdong.ai)
+
+#### AutoBot
+
+AutoBot 官网：[http://www.autobot.im](http://www.autobot.im)
 
 ## AR/VR/MR
 
