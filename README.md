@@ -123,6 +123,7 @@
         - [斑马智行](#斑马智行)
         - [Nuro](#Nuro)
     - [IoV 智能驾驶系统](#IoV-智能驾驶系统)
+        - [禾多科技](#禾多科技) 
         - [openpilot](#openpilot)
         - [Apollo](#Apollo)
         - [Momenta](#Momenta)
@@ -835,6 +836,12 @@ IoV 开放平台是指具有一定能力的公司或组织，将自己的 IoV �
 Nuro 官网：[https://nuro.ai](https://nuro.ai)
 
 ### IoV 智能驾驶系统
+
+#### 禾多科技
+
+禾多科技成立于2017年6月，致力于打造基于前沿人工智能技术和汽车工业技术的自动驾驶方案。禾多科技具备从车辆线控、多传感器技术到上层自动驾驶核心算法模块的完整布局，是极少数拥有全栈自动驾驶研发能力的公司之一。
+
+禾多科技官网：[http://www.holomatic.cn](http://www.holomatic.cn)
 
 #### openpilot
 
