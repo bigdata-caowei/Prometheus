@@ -126,6 +126,7 @@
         - [Apollo](#Apollo)
         - [Momenta](#Momenta)
         - [Zoox](#Zoox)
+        - [WeRide](#WeRide)
     - [智能汽车](#智能汽车)
         - [特斯拉](#特斯拉) 
         - [仙途](#仙途)
@@ -848,6 +849,10 @@ Momenta 官网：[https://www.momenta.cn](https://www.momenta.cn)
 #### Zoox
 
 Zoox 官网：[http://zoox.com](http://zoox.com) 
+
+#### WeRide
+
+WeRide 官网：[https://www.weride.ai](https://www.weride.ai)
 
 ### 智能汽车
 
