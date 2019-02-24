@@ -120,13 +120,15 @@
     - [IoV 开放平台](#IoV-开放平台)
         - [百度 IoV 开放平台](#百度-IoV-开放平台)
     - [IoV 解决方案](#IoV-解决方案)
-        - [斑马智行 IoV 解决方案](#斑马智行-IoV-解决方案)
+        - [斑马智行](#斑马智行)
+        - [Nuro](#Nuro)
     - [IoV 智能驾驶系统](#IoV-智能驾驶系统)
         - [openpilot](#openpilot)
         - [Apollo](#Apollo)
         - [Momenta](#Momenta)
         - [Zoox](#Zoox)
         - [WeRide](#WeRide)
+        - [AutoX](#AutoX)
     - [智能汽车](#智能汽车)
         - [特斯拉](#特斯拉) 
         - [仙途](#仙途)
@@ -822,11 +824,15 @@ IoV 开放平台是指具有一定能力的公司或组织，将自己的 IoV �
 
 ### IoV 解决方案
 
-#### 斑马智行 IoV 解决方案
+#### 斑马智行
 
 斑马智行 IoV 解决方案基于AliOS的斑马智行互联网汽车整体解决方案。
 
 斑马智行官网：[http://www.ebanma.com](http://www.ebanma.com)
+
+#### Nuro
+
+Nuro 官网：[https://nuro.ai](https://nuro.ai)
 
 ### IoV 智能驾驶系统
 
@@ -853,6 +859,10 @@ Zoox 官网：[http://zoox.com](http://zoox.com)
 #### WeRide
 
 WeRide 官网：[https://www.weride.ai](https://www.weride.ai)
+
+#### AutoX
+
+AutoX 官网：[https://www.autox.ai](https://www.autox.ai)
 
 ### 智能汽车
 
