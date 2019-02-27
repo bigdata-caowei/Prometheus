@@ -52,6 +52,7 @@ Prometheus：普罗米修斯。在希腊神话中，是泰坦神族的神明之�
         - [DeepMind](#DeepMind)
         - [X.AI](#X.AI)
         - [LANDING.AI](#LANDING.AI)
+        - [Woebot](#Woebot)
     - [AI 人物](#AI-人物)
         - [李开复](#李开复)
         - [李飞飞](#李飞飞)
@@ -434,6 +435,10 @@ LANDING.AI 公司是由吴恩达创办的将 AI 服务于传统制造行业。
 
 X.AI 官网：[https://x.ai](https://x.ai)  
 说明：LANDING.AI 将会通过 AI 提供传统制造的产品质量、良率、生产效率等。
+
+#### Woebot
+
+Woebot 官网：[https://woebot.io](https://woebot.io)
 
 ### Machine Learning
 
