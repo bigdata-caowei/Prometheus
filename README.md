@@ -155,6 +155,7 @@ Prometheus：普罗米修斯。在希腊神话中，是泰坦神族的神明之�
         - [腾讯 Robot 开放平台](#腾讯-Robot-开放平台) 
     - [Robot 技术公司](#Robot-技术公司)
         - [Boston Dynamics](#Boston-Dynamics) 
+        - [小 i 机器人](#小-i-机器人)
 - [Blockchain](#Blockchain)
     - [控制协议](#控制协议)
     - [官网](#官网)
@@ -971,10 +972,13 @@ Google AR 官网：[https://github.com/google-ar](https://github.com/google-ar)
         
 ### Robot 技术公司
         
-#### Boston Dynamic
+#### Boston Dynamics
         
-Boston Dynamic 官网：[https://www.bostondynamics.com](https://www.bostondynamics.com)
+Boston Dynamics 官网：[https://www.bostondynamics.com](https://www.bostondynamics.com)
 
+#### 小 i 机器人
+
+小 i 机器人官网：[http://www.xiaoi.com](http://www.xiaoi.com)
 
 ## Blockchain
 
