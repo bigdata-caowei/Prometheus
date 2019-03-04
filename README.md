@@ -121,6 +121,7 @@ Prometheus：普罗米修斯。在希腊神话中，是泰坦神族的神明之�
         - [普玄物联](#普玄物联)
         - [鎏云物联](#鎏云物联)
         - [酷宅科技](#酷宅科技)
+        - [Nest](#Nest)
 - [IoV](#IoV)
     - [IoV 开放平台](#IoV-开放平台)
         - [百度 IoV 开放平台](#百度-IoV-开放平台)
@@ -828,6 +829,10 @@ HomeKit SDK 官网：[https://developer.apple.com/homekit](https://developer.app
 #### 酷宅科技
 
 酷宅科技官网：[http://www.coolkit.cn](http://www.coolkit.cn)
+
+### Nest
+
+Nest 官网：[https://nest.com](https://nest.com)
 
 ## IoV
 
