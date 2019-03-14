@@ -153,6 +153,7 @@ Prometheus：普罗米修斯。在希腊神话中，是泰坦神族的神明之�
     - [AR/VR/MR 设备](#AR/VR/MR-设备)
         - [HTC AR/VR/MR 设备](#HTC-AR/VR/MR-设备) 
         - [Pico VR](#Pico-VR)
+        - [Google Daydream View](#Google-Daydream-View)
     - [AR/VR/MR SDK](#AR/VR/MR-SDK)
         - [Google AR](#Google-AR) 
     - [AR/VR/MR 公司](#AR/VR/MR-公司)
@@ -980,6 +981,10 @@ HTC VIVE 官网：[https://www.vive.com](https://www.vive.com)
 #### Pico VR
 
 Pico VR 官网：[https://www.picovr.com](https://www.picovr.com)
+
+#### Google Daydream View
+
+Google Daydream View 官网：[https://store.google.com/product/google_daydream_view](https://store.google.com/product/google_daydream_view)
 
 ### AR/VR/MR SDK
 
