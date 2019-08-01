@@ -55,6 +55,8 @@ Prometheus：普罗米修斯。在希腊神话中，是泰坦神族的神明之�
         - [LANDING.AI](#LANDING.AI)
         - [Woebot](#Woebot)
         - [物灵科技](#物灵科技)
+        - [齐悟](#齐悟)
+        - [蓦然认知](#蓦然认知)
     - [AI 人物](#AI-人物)
         - [李开复](#李开复)
         - [李飞飞](#李飞飞)
@@ -458,6 +460,14 @@ Woebot 官网：[https://woebot.io](https://woebot.io)
 #### 物灵科技
 
 物灵科技官网：[https://china.ling.ai](https://china.ling.ai)
+
+#### 齐悟
+
+齐悟科技官网：[https://qiwu.ai](https://qiwu.ai)
+
+#### 蓦然认知
+
+蓦然认知官网：[http://mor.ai](http://mor.ai)
 
 ### Machine Learning
 
