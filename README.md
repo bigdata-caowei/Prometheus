@@ -62,6 +62,7 @@ Prometheus：普罗米修斯。在希腊神话中，是泰坦神族的神明之�
         - [息息](#息息)
         - [深兰科技](#深兰科技)
         - [地平线](#地平线)
+        - [图灵机器人](#图灵机器人)
     - [AI 人物](#AI-人物)
         - [李开复](#李开复)
         - [李飞飞](#李飞飞)
@@ -493,6 +494,10 @@ Woebot 官网：[https://woebot.io](https://woebot.io)
 #### 地平线
 
 地平线官网：[https://www.horizon.ai](https://www.horizon.ai)
+
+#### 图灵机器人
+
+图灵机器人官网：[http://www.turingapi.com](http://www.turingapi.com)
 
 ### Machine Learning
 
