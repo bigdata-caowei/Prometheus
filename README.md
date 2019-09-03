@@ -64,6 +64,7 @@ Prometheus：普罗米修斯。在希腊神话中，是泰坦神族的神明之�
         - [地平线](#地平线)
         - [图灵机器人](#图灵机器人)
         - [澎思科技](#澎思科技)
+        - [SoundHound](#SoundHound)
     - [AI 人物](#AI-人物)
         - [李开复](#李开复)
         - [李飞飞](#李飞飞)
@@ -503,6 +504,10 @@ Woebot 官网：[https://woebot.io](https://woebot.io)
 #### 澎思科技
 
 澎思科技官网：[http://pensees-ai.com](http://pensees-ai.com)
+
+#### SoundHound
+
+SoundHound 官网：[https://www.soundhound.com](https://www.soundhound.com)
 
 ### Machine Learning
 
