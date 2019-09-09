@@ -40,6 +40,8 @@ Prometheus：普罗米修斯。在希腊神话中，是泰坦神族的神明之�
         - [Intel AI Academy](#Intel-AI-Academy)
     - [AI 系统](#AI-系统)
         - [百度 AI 系统](#百度-AI-系统)
+    - [AI 播客](#AI-播客)
+        - [Voices in AI](#Voices-in-AI)
     - [AI 公司](#AI-公司)
         - [大象声科](#大象声科)
         - [竹间智能](#竹间智能)
@@ -389,6 +391,12 @@ Intel AI Academy 官网：[https://software.intel.com/en-us/ai-academy](https://
 百度的 AI 系统叫 DuerOS。
 
 DuerOS 官网：[https://dueros.baidu.com](https://dueros.baidu.com)
+
+### AI 播客
+
+#### Voices in AI
+
+Voices in AI 官网：[https://voicesinai.com](https://voicesinai.com)
 
 ### AI 公司
 
