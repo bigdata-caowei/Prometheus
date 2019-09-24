@@ -127,6 +127,7 @@ Prometheus：普罗米修斯。在希腊神话中，是泰坦神族的神明之�
         - [Raspberry Pi](#Raspberry-Pi)
         - [Arduino](#Arduino)
         - [Fuchsia](#Fuchsia)
+        - [TencentOS-tiny](#TencentOS-tiny)
     - [IoT SDK](#IoT-SDK)
         - [Google IoT SDK](#Google-IoT-SDK)
         - [Apple IoT SDK](#Apple-IoT-SDK)
@@ -870,6 +871,10 @@ Arduino 官网：[https://www.arduino.cc](https://www.arduino.cc)
 #### Fuchsia
 
 Fuchsia 官网：[https://github.com/fuchsia-mirror](https://github.com/fuchsia-mirror)
+
+#### TencentOS-tiny
+
+TencentOS-tiny 源码：[https://github.com/Tencent/TencentOS-tiny](https://github.com/Tencent/TencentOS-tiny)
 
 ### IoT SDK
 
